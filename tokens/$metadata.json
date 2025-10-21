@@ -1,0 +1,22 @@
+{
+  "tokenSetOrder": [
+    "Tailwind/Default",
+    "Tailwind Alias/Dark",
+    "Tailwind Alias/Light",
+    "Tailwind Alias/Brand",
+    "Brand/Mode 1",
+    "Teams/Bayern Munich",
+    "Teams/Werder Bremen",
+    "Teams/Mode",
+    "Teams/Mode 2",
+    "Typography/Default",
+    "Icons/Broken",
+    "Icons/Bulk",
+    "Icons/Two Tone",
+    "Icons/Light",
+    "Radius/Default",
+    "Radius/Saga",
+    "Space/Default",
+    "Size/Default"
+  ]
+}

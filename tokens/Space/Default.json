@@ -1,0 +1,77 @@
+{
+  "zero": {
+    "value": 0,
+    "type": "number",
+    "description": "Spacing value for zero (tshirt)"
+  },
+  "px": {
+    "value": 1,
+    "type": "number",
+    "description": "Spacing value for px (tshirt)"
+  },
+  "xxs": {
+    "value": 2,
+    "type": "number",
+    "description": "Spacing value for xxs (tshirt)"
+  },
+  "xs2": {
+    "value": 4,
+    "type": "number",
+    "description": "Spacing value for xs2 (tshirt)"
+  },
+  "xs": {
+    "value": 8,
+    "type": "number",
+    "description": "Spacing value for xs (tshirt)"
+  },
+  "sm": {
+    "value": 12,
+    "type": "number",
+    "description": "Spacing value for sm (tshirt)"
+  },
+  "base": {
+    "value": 16,
+    "type": "number",
+    "description": "Spacing value for base (tshirt)"
+  },
+  "md": {
+    "value": 20,
+    "type": "number",
+    "description": "Spacing value for md (tshirt)"
+  },
+  "lg": {
+    "value": 24,
+    "type": "number",
+    "description": "Spacing value for lg (tshirt)"
+  },
+  "xl": {
+    "value": 28,
+    "type": "number",
+    "description": "Spacing value for xl (tshirt)"
+  },
+  "xl2": {
+    "value": 32,
+    "type": "number",
+    "description": "Spacing value for xl2 (tshirt)"
+  },
+  "xl3": {
+    "value": 40,
+    "type": "number",
+    "description": "Spacing value for xl3 (tshirt)"
+  },
+  "xl4": {
+    "value": 48,
+    "type": "number",
+    "description": "Spacing value for xl4 (tshirt)"
+  },
+  "xl5": {
+    "value": 60,
+    "type": "number",
+    "description": "Spacing value for xl5 (tshirt)"
+  },
+  "xl6": {
+    "value": 72,
+    "type": "number",
+    "description": "Spacing value for xl6 (tshirt)"
+  }
+}
