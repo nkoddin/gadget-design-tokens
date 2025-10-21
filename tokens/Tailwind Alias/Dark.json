@@ -1,7 +1,7 @@
 {
   "bg": {
     "primary": {
-      "value": "{slate.950}",
+      "value": "{slate.600}",
       "type": "color",
       "description": "bg color for primary (aliased to b&w/white)"
     },
