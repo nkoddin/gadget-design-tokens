@@ -1,9 +1,9 @@
 {
   "tokenSetOrder": [
     "Tailwind/Default",
-    "Tailwind Alias/Dark",
-    "Tailwind Alias/Light",
-    "Tailwind Alias/Brand",
+    "Theme/Dark",
+    "Theme/Light",
+    "Theme/Brand",
     "Brand/Mode 1",
     "Teams/Bayern Munich",
     "Teams/Werder Bremen",
@@ -14,9 +14,24 @@
     "Icons/Bulk",
     "Icons/Two Tone",
     "Icons/Light",
-    "Radius/Default",
-    "Radius/Saga",
+    "Radius/Soft",
+    "Radius/Sharp",
+    "Radius/Square",
+    "Radius/Smooth",
     "Space/Default",
-    "Size/Default"
+    "Size/Default",
+    "Content/EN",
+    "Content/ES",
+    "Content/PT",
+    "Content/RU",
+    "Emblem/Logo",
+    "Emblem/Jersey",
+    "Emblem/Flag",
+    "Layout/Default",
+    "Layout/Sasha",
+    "Layout/Dunja",
+    "Layout/Andrea",
+    "Font/Default",
+    "Font/Saira"
   ]
 }
