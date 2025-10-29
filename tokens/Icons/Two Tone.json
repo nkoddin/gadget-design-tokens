@@ -1,6 +1,6 @@
 {
   "styles": {
-    "value": "Two Tone",
-    "type": "text"
+    "$type": "text",
+    "$value": "Two Tone"
   }
 }
