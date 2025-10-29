@@ -1,6 +1,6 @@
 {
   "Layout": {
-    "value": "Sasha",
-    "type": "text"
+    "$type": "text",
+    "$value": "Sasha"
   }
 }

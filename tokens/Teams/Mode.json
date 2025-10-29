@@ -1,16 +1,16 @@
 {
   "Football": {
     "teamPrimaryColor": {
-      "value": "#1e9054",
-      "type": "color"
+      "$type": "color",
+      "$value": "#1e9054"
     },
     "teamSecondaryColor": {
-      "value": "#ffffff",
-      "type": "color"
+      "$type": "color",
+      "$value": "#ffffff"
     },
     "teamName": {
-      "value": "Werder Bremen",
-      "type": "text"
+      "$type": "text",
+      "$value": "Werder Bremen"
     }
   }
 }

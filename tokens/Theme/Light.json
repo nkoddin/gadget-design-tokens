@@ -1,644 +1,644 @@
 {
   "bg": {
     "primary": {
-      "value": "{slate.100}",
-      "type": "color",
-      "description": "bg color for primary (aliased to b&w/white)"
+      "$type": "color",
+      "$value": "{slate.100}",
+      "$description": "bg color for primary (aliased to b&w/white)"
     },
     "secondary": {
-      "value": "{slate.200}",
-      "type": "color",
-      "description": "bg color for secondary (aliased to slate/50)"
+      "$type": "color",
+      "$value": "{slate.200}",
+      "$description": "bg color for secondary (aliased to slate/50)"
     },
     "tertiary": {
-      "value": "{slate.300}",
-      "type": "color",
-      "description": "bg color for tertiary (aliased to slate/100)"
+      "$type": "color",
+      "$value": "{slate.300}",
+      "$description": "bg color for tertiary (aliased to slate/100)"
     },
     "quartiary": {
-      "value": "{slate.50}",
-      "type": "color",
-      "description": "bg color for quartiary (aliased to slate/300)"
+      "$type": "color",
+      "$value": "{slate.50}",
+      "$description": "bg color for quartiary (aliased to slate/300)"
     },
     "primary-hover": {
-      "value": "{slate.800}",
-      "type": "color",
-      "description": "bg color for primary-hover (aliased to slate/50)"
+      "$type": "color",
+      "$value": "{slate.800}",
+      "$description": "bg color for primary-hover (aliased to slate/50)"
     },
     "secondary-hover": {
-      "value": "{slate.300}",
-      "type": "color",
-      "description": "bg color for secondary-hover (aliased to slate/100)"
+      "$type": "color",
+      "$value": "{slate.300}",
+      "$description": "bg color for secondary-hover (aliased to slate/100)"
     },
     "tertiary-hover": {
-      "value": "{slate.200}",
-      "type": "color",
-      "description": "bg color for tertiary-hover (aliased to slate/200)"
+      "$type": "color",
+      "$value": "{slate.200}",
+      "$description": "bg color for tertiary-hover (aliased to slate/200)"
     },
     "quartiary-hover": {
-      "value": "{slate.100}",
-      "type": "color",
-      "description": "bg color for quartiary-hover (aliased to slate/400)"
+      "$type": "color",
+      "$value": "{slate.100}",
+      "$description": "bg color for quartiary-hover (aliased to slate/400)"
     },
     "black-solid": {
-      "value": "{slate.900}",
-      "type": "color",
-      "description": "bg color for black-solid (aliased to slate/900)"
+      "$type": "color",
+      "$value": "{slate.900}",
+      "$description": "bg color for black-solid (aliased to slate/900)"
     },
     "black-solid-hover": {
-      "value": "{slate.800}",
-      "type": "color",
-      "description": "bg color for black-solid-hover (aliased to slate/800)"
+      "$type": "color",
+      "$value": "{slate.800}",
+      "$description": "bg color for black-solid-hover (aliased to slate/800)"
     },
     "disabled": {
-      "value": "{slate.300}",
-      "type": "color",
-      "description": "bg color for disabled (aliased to slate/300)"
+      "$type": "color",
+      "$value": "{slate.300}",
+      "$description": "bg color for disabled (aliased to slate/300)"
     },
     "disabled-alt": {
-      "value": "{slate.100}",
-      "type": "color",
-      "description": "bg color for disabled-alt (aliased to slate/100)"
+      "$type": "color",
+      "$value": "{slate.100}",
+      "$description": "bg color for disabled-alt (aliased to slate/100)"
     },
     "accent-primary": {
-      "value": "{purple.50}",
-      "type": "color",
-      "description": "bg color for accent-primary (aliased to purple/50)"
+      "$type": "color",
+      "$value": "{purple.50}",
+      "$description": "bg color for accent-primary (aliased to purple/50)"
     },
     "accent-primary-hover": {
-      "value": "{purple.100}",
-      "type": "color",
-      "description": "bg color for accent-primary-hover (aliased to purple/100)"
+      "$type": "color",
+      "$value": "{purple.100}",
+      "$description": "bg color for accent-primary-hover (aliased to purple/100)"
     },
     "accent-solid": {
-      "value": "{400}",
-      "type": "color",
-      "description": "bg color for accent-solid (aliased to purple/500)"
+      "$type": "color",
+      "$value": "{400}",
+      "$description": "bg color for accent-solid (aliased to purple/500)"
     },
     "accent-solid-hover": {
-      "value": "{500}",
-      "type": "color",
-      "description": "bg color for accent-solid-hover (aliased to purple/600)"
+      "$type": "color",
+      "$value": "{500}",
+      "$description": "bg color for accent-solid-hover (aliased to purple/600)"
     },
     "error-primary": {
-      "value": "{red.50}",
-      "type": "color",
-      "description": "bg color for error-primary (aliased to red/50)"
+      "$type": "color",
+      "$value": "{red.50}",
+      "$description": "bg color for error-primary (aliased to red/50)"
     },
     "error-primary-hover": {
-      "value": "{red.100}",
-      "type": "color",
-      "description": "bg color for error-primary-hover (aliased to red/100)"
+      "$type": "color",
+      "$value": "{red.100}",
+      "$description": "bg color for error-primary-hover (aliased to red/100)"
     },
     "error-secondary": {
-      "value": "{red.600}",
-      "type": "color",
-      "description": "bg color for error-secondary (aliased to red/600)"
+      "$type": "color",
+      "$value": "{red.600}",
+      "$description": "bg color for error-secondary (aliased to red/600)"
     },
     "error-secondary-hover": {
-      "value": "{red.700}",
-      "type": "color",
-      "description": "bg color for error-secondary-hover (aliased to red/700)"
+      "$type": "color",
+      "$value": "{red.700}",
+      "$description": "bg color for error-secondary-hover (aliased to red/700)"
     },
     "success-primary": {
-      "value": "{green.100}",
-      "type": "color",
-      "description": "bg color for success-primary (aliased to green/100)"
+      "$type": "color",
+      "$value": "{green.100}",
+      "$description": "bg color for success-primary (aliased to green/100)"
     },
     "success-primary-hover": {
-      "value": "{green.200}",
-      "type": "color",
-      "description": "bg color for success-primary-hover (aliased to green/200)"
+      "$type": "color",
+      "$value": "{green.200}",
+      "$description": "bg color for success-primary-hover (aliased to green/200)"
     },
     "success-secondary": {
-      "value": "{green.600}",
-      "type": "color",
-      "description": "bg color for success-secondary (aliased to green/600)"
+      "$type": "color",
+      "$value": "{green.600}",
+      "$description": "bg color for success-secondary (aliased to green/600)"
     },
     "success-secondary-hover": {
-      "value": "{green.700}",
-      "type": "color",
-      "description": "bg color for success-secondary-hover (aliased to green/700)"
+      "$type": "color",
+      "$value": "{green.700}",
+      "$description": "bg color for success-secondary-hover (aliased to green/700)"
     },
     "warning-primary": {
-      "value": "{orange.100}",
-      "type": "color",
-      "description": "bg color for warning-primary (aliased to orange/100)"
+      "$type": "color",
+      "$value": "{orange.100}",
+      "$description": "bg color for warning-primary (aliased to orange/100)"
     },
     "warning-primary-hover": {
-      "value": "{orange.200}",
-      "type": "color",
-      "description": "bg color for warning-primary-hover (aliased to orange/200)"
+      "$type": "color",
+      "$value": "{orange.200}",
+      "$description": "bg color for warning-primary-hover (aliased to orange/200)"
     },
     "warning-secondary": {
-      "value": "{orange.600}",
-      "type": "color",
-      "description": "bg color for warning-secondary (aliased to orange/600)"
+      "$type": "color",
+      "$value": "{orange.600}",
+      "$description": "bg color for warning-secondary (aliased to orange/600)"
     },
     "warning-secondary-hover": {
-      "value": "{orange.700}",
-      "type": "color",
-      "description": "bg color for warning-secondary-hover (aliased to orange/700)"
+      "$type": "color",
+      "$value": "{orange.700}",
+      "$description": "bg color for warning-secondary-hover (aliased to orange/700)"
     },
     "info-primary": {
-      "value": "{blue.50}",
-      "type": "color",
-      "description": "bg color for info-primary (aliased to blue/50)"
+      "$type": "color",
+      "$value": "{blue.50}",
+      "$description": "bg color for info-primary (aliased to blue/50)"
     },
     "info-primary-hover": {
-      "value": "{blue.100}",
-      "type": "color",
-      "description": "bg color for info-primary-hover (aliased to blue/100)"
+      "$type": "color",
+      "$value": "{blue.100}",
+      "$description": "bg color for info-primary-hover (aliased to blue/100)"
     },
     "info-secondary": {
-      "value": "{blue.600}",
-      "type": "color",
-      "description": "bg color for info-secondary (aliased to blue/600)"
+      "$type": "color",
+      "$value": "{blue.600}",
+      "$description": "bg color for info-secondary (aliased to blue/600)"
     },
     "info-secondary-hover": {
-      "value": "{blue.700}",
-      "type": "color",
-      "description": "bg color for info-secondary-hover (aliased to blue/700)"
+      "$type": "color",
+      "$value": "{blue.700}",
+      "$description": "bg color for info-secondary-hover (aliased to blue/700)"
     },
     "offer-primary": {
-      "value": "{green.100}",
-      "type": "color",
-      "description": "bg color for offer-primary (aliased to green/100)"
+      "$type": "color",
+      "$value": "{green.100}",
+      "$description": "bg color for offer-primary (aliased to green/100)"
     },
     "offer-primary-hover": {
-      "value": "{green.200}",
-      "type": "color",
-      "description": "bg color for offer-primary-hover (aliased to green/200)"
+      "$type": "color",
+      "$value": "{green.200}",
+      "$description": "bg color for offer-primary-hover (aliased to green/200)"
     },
     "offer-secondary": {
-      "value": "{green.600}",
-      "type": "color",
-      "description": "bg color for offer-secondary (aliased to green/600)"
+      "$type": "color",
+      "$value": "{green.600}",
+      "$description": "bg color for offer-secondary (aliased to green/600)"
     },
     "offer-secondary-hover": {
-      "value": "{green.700}",
-      "type": "color",
-      "description": "bg color for offer-secondary-hover (aliased to green/700)"
+      "$type": "color",
+      "$value": "{green.700}",
+      "$description": "bg color for offer-secondary-hover (aliased to green/700)"
     },
     "overlay-alpha-primary": {
-      "value": "{alpha.light.200}",
-      "type": "color",
-      "description": "bg color for overlay-alpha-primary (aliased to alpha/light/200)"
+      "$type": "color",
+      "$value": "{alpha.light.200}",
+      "$description": "bg color for overlay-alpha-primary (aliased to alpha/light/200)"
     },
     "overlay-alpha-secondary": {
-      "value": "{alpha.light.100}",
-      "type": "color",
-      "description": "bg color for overlay-alpha-secondary (aliased to alpha/light/500)"
+      "$type": "color",
+      "$value": "{alpha.light.100}",
+      "$description": "bg color for overlay-alpha-secondary (aliased to alpha/light/500)"
     },
     "overlay-alpha-white-primary": {
-      "value": "{alpha.dark.300}",
-      "type": "color",
-      "description": "bg color for overlay-alpha-white-primary (aliased to alpha/dark/300)"
+      "$type": "color",
+      "$value": "{alpha.dark.300}",
+      "$description": "bg color for overlay-alpha-white-primary (aliased to alpha/dark/300)"
     },
     "overlay-alpha-white-secondary": {
-      "value": "{alpha.dark.500}",
-      "type": "color",
-      "description": "bg color for overlay-alpha-white-secondary (aliased to alpha/dark/500)"
+      "$type": "color",
+      "$value": "{alpha.dark.500}",
+      "$description": "bg color for overlay-alpha-white-secondary (aliased to alpha/dark/500)"
     }
   },
   "text": {
     "primary": {
-      "value": "{slate.900}",
-      "type": "color",
-      "description": "text color for primary (aliased to slate/900)"
+      "$type": "color",
+      "$value": "{slate.900}",
+      "$description": "text color for primary (aliased to slate/900)"
     },
     "secondary": {
-      "value": "{slate.600}",
-      "type": "color",
-      "description": "text color for secondary (aliased to slate/600)"
+      "$type": "color",
+      "$value": "{slate.600}",
+      "$description": "text color for secondary (aliased to slate/600)"
     },
     "tertiary": {
-      "value": "{slate.500}",
-      "type": "color",
-      "description": "text color for tertiary (aliased to slate/500)"
+      "$type": "color",
+      "$value": "{slate.500}",
+      "$description": "text color for tertiary (aliased to slate/500)"
     },
     "primary-hover": {
-      "value": "{slate.800}",
-      "type": "color",
-      "description": "text color for primary-hover (aliased to slate/800)"
+      "$type": "color",
+      "$value": "{slate.800}",
+      "$description": "text color for primary-hover (aliased to slate/800)"
     },
     "secondary-hover": {
-      "value": "{slate.700}",
-      "type": "color",
-      "description": "text color for secondary-hover (aliased to slate/700)"
+      "$type": "color",
+      "$value": "{slate.700}",
+      "$description": "text color for secondary-hover (aliased to slate/700)"
     },
     "tertiary-hover": {
-      "value": "{slate.600}",
-      "type": "color",
-      "description": "text color for tertiary-hover (aliased to slate/600)"
+      "$type": "color",
+      "$value": "{slate.600}",
+      "$description": "text color for tertiary-hover (aliased to slate/600)"
     },
     "disabled": {
-      "value": "{slate.400}",
-      "type": "color",
-      "description": "text color for disabled (aliased to slate/400)"
+      "$type": "color",
+      "$value": "{slate.400}",
+      "$description": "text color for disabled (aliased to slate/400)"
     },
     "disabled-alt": {
-      "value": "{slate.300}",
-      "type": "color",
-      "description": "text color for disabled-alt (aliased to slate/300)"
+      "$type": "color",
+      "$value": "{slate.300}",
+      "$description": "text color for disabled-alt (aliased to slate/300)"
     },
     "placeholder": {
-      "value": "{slate.400}",
-      "type": "color",
-      "description": "text color for placeholder (aliased to slate/400)"
+      "$type": "color",
+      "$value": "{slate.400}",
+      "$description": "text color for placeholder (aliased to slate/400)"
     },
     "invert": {
-      "value": "{b&w.white}",
-      "type": "color",
-      "description": "text color for on-dark-color (aliased to b&w/white)"
+      "$type": "color",
+      "$value": "{b&w.white}",
+      "$description": "text color for on-dark-color (aliased to b&w/white)"
     },
     "accent-primary": {
-      "value": "{purple.500}",
-      "type": "color",
-      "description": "text color for accent-primary (aliased to purple/500)"
+      "$type": "color",
+      "$value": "{purple.500}",
+      "$description": "text color for accent-primary (aliased to purple/500)"
     },
     "accent-secondary": {
-      "value": "{purple.300}",
-      "type": "color",
-      "description": "text color for accent-secondary (aliased to purple/300)"
+      "$type": "color",
+      "$value": "{purple.300}",
+      "$description": "text color for accent-secondary (aliased to purple/300)"
     },
     "accent-primary-hover": {
-      "value": "{purple.600}",
-      "type": "color",
-      "description": "text color for accent-primary-hover (aliased to purple/600)"
+      "$type": "color",
+      "$value": "{purple.600}",
+      "$description": "text color for accent-primary-hover (aliased to purple/600)"
     },
     "accent-secondary-hover": {
-      "value": "{purple.400}",
-      "type": "color",
-      "description": "text color for accent-secondary-hover (aliased to purple/400)"
+      "$type": "color",
+      "$value": "{purple.400}",
+      "$description": "text color for accent-secondary-hover (aliased to purple/400)"
     },
     "error-primary": {
-      "value": "{red.600}",
-      "type": "color",
-      "description": "text color for error-primary (aliased to red/600)"
+      "$type": "color",
+      "$value": "{red.600}",
+      "$description": "text color for error-primary (aliased to red/600)"
     },
     "error-secondary": {
-      "value": "{red.400}",
-      "type": "color",
-      "description": "text color for error-secondary (aliased to red/400)"
+      "$type": "color",
+      "$value": "{red.400}",
+      "$description": "text color for error-secondary (aliased to red/400)"
     },
     "error-primary-hover": {
-      "value": "{red.700}",
-      "type": "color",
-      "description": "text color for error-primary-hover (aliased to red/700)"
+      "$type": "color",
+      "$value": "{red.700}",
+      "$description": "text color for error-primary-hover (aliased to red/700)"
     },
     "error-secondary-hover": {
-      "value": "{red.500}",
-      "type": "color",
-      "description": "text color for error-secondary-hover (aliased to red/500)"
+      "$type": "color",
+      "$value": "{red.500}",
+      "$description": "text color for error-secondary-hover (aliased to red/500)"
     },
     "success-primary": {
-      "value": "{green.500}",
-      "type": "color",
-      "description": "text color for success-primary (aliased to green/600)"
+      "$type": "color",
+      "$value": "{green.500}",
+      "$description": "text color for success-primary (aliased to green/600)"
     },
     "success-secondary": {
-      "value": "{green.400}",
-      "type": "color",
-      "description": "text color for success-secondary (aliased to green/400)"
+      "$type": "color",
+      "$value": "{green.400}",
+      "$description": "text color for success-secondary (aliased to green/400)"
     },
     "success-primary-hover": {
-      "value": "{green.700}",
-      "type": "color",
-      "description": "text color for success-primary-hover (aliased to green/700)"
+      "$type": "color",
+      "$value": "{green.700}",
+      "$description": "text color for success-primary-hover (aliased to green/700)"
     },
     "success-secondary-hover": {
-      "value": "{green.700}",
-      "type": "color",
-      "description": "text color for success-secondary-hover (aliased to green/700)"
+      "$type": "color",
+      "$value": "{green.700}",
+      "$description": "text color for success-secondary-hover (aliased to green/700)"
     },
     "warning-primary": {
-      "value": "{orange.600}",
-      "type": "color",
-      "description": "text color for warning-primary (aliased to orange/600)"
+      "$type": "color",
+      "$value": "{orange.600}",
+      "$description": "text color for warning-primary (aliased to orange/600)"
     },
     "warning-secondary": {
-      "value": "{orange.400}",
-      "type": "color",
-      "description": "text color for warning-secondary (aliased to orange/400)"
+      "$type": "color",
+      "$value": "{orange.400}",
+      "$description": "text color for warning-secondary (aliased to orange/400)"
     },
     "warning-primary-hover": {
-      "value": "{orange.700}",
-      "type": "color",
-      "description": "text color for warning-primary-hover (aliased to orange/700)"
+      "$type": "color",
+      "$value": "{orange.700}",
+      "$description": "text color for warning-primary-hover (aliased to orange/700)"
     },
     "warning-secondary-hover": {
-      "value": "{orange.500}",
-      "type": "color",
-      "description": "text color for warning-secondary-hover (aliased to orange/500)"
+      "$type": "color",
+      "$value": "{orange.500}",
+      "$description": "text color for warning-secondary-hover (aliased to orange/500)"
     },
     "info-primary": {
-      "value": "{blue.600}",
-      "type": "color",
-      "description": "text color for info-primary (aliased to blue/600)"
+      "$type": "color",
+      "$value": "{blue.600}",
+      "$description": "text color for info-primary (aliased to blue/600)"
     },
     "info-secondary": {
-      "value": "{blue.400}",
-      "type": "color",
-      "description": "text color for info-secondary (aliased to blue/400)"
+      "$type": "color",
+      "$value": "{blue.400}",
+      "$description": "text color for info-secondary (aliased to blue/400)"
     },
     "info-primary-hover": {
-      "value": "{blue.700}",
-      "type": "color",
-      "description": "text color for info-primary-hover (aliased to blue/700)"
+      "$type": "color",
+      "$value": "{blue.700}",
+      "$description": "text color for info-primary-hover (aliased to blue/700)"
     },
     "info-secondary-hover": {
-      "value": "{blue.500}",
-      "type": "color",
-      "description": "text color for info-secondary-hover (aliased to blue/500)"
+      "$type": "color",
+      "$value": "{blue.500}",
+      "$description": "text color for info-secondary-hover (aliased to blue/500)"
     },
     "offer-primary": {
-      "value": "{green.600}",
-      "type": "color",
-      "description": "text color for offer-primary (aliased to green/600)"
+      "$type": "color",
+      "$value": "{green.600}",
+      "$description": "text color for offer-primary (aliased to green/600)"
     },
     "offer-secondary": {
-      "value": "{green.500}",
-      "type": "color",
-      "description": "text color for offer-secondary (aliased to green/500)"
+      "$type": "color",
+      "$value": "{green.500}",
+      "$description": "text color for offer-secondary (aliased to green/500)"
     },
     "offer-primary-hover": {
-      "value": "{green.700}",
-      "type": "color",
-      "description": "text color for offer-primary-hover (aliased to green/700)"
+      "$type": "color",
+      "$value": "{green.700}",
+      "$description": "text color for offer-primary-hover (aliased to green/700)"
     },
     "offer-secondary-hover": {
-      "value": "{green.600}",
-      "type": "color",
-      "description": "text color for offer-secondary-hover (aliased to green/600)"
+      "$type": "color",
+      "$value": "{green.600}",
+      "$description": "text color for offer-secondary-hover (aliased to green/600)"
     }
   },
   "icon": {
     "primary": {
-      "value": "{slate.900}",
-      "type": "color",
-      "description": "icon color for primary (aliased to slate/900)"
+      "$type": "color",
+      "$value": "{slate.900}",
+      "$description": "icon color for primary (aliased to slate/900)"
     },
     "secondary": {
-      "value": "{slate.600}",
-      "type": "color",
-      "description": "icon color for secondary (aliased to slate/600)"
+      "$type": "color",
+      "$value": "{slate.600}",
+      "$description": "icon color for secondary (aliased to slate/600)"
     },
     "tertiary": {
-      "value": "{slate.400}",
-      "type": "color",
-      "description": "icon color for tertiary (aliased to slate/400)"
+      "$type": "color",
+      "$value": "{slate.400}",
+      "$description": "icon color for tertiary (aliased to slate/400)"
     },
     "primary-hover": {
-      "value": "{slate.800}",
-      "type": "color",
-      "description": "icon color for primary-hover (aliased to slate/800)"
+      "$type": "color",
+      "$value": "{slate.800}",
+      "$description": "icon color for primary-hover (aliased to slate/800)"
     },
     "secondary-hover": {
-      "value": "{slate.700}",
-      "type": "color",
-      "description": "icon color for secondary-hover (aliased to slate/700)"
+      "$type": "color",
+      "$value": "{slate.700}",
+      "$description": "icon color for secondary-hover (aliased to slate/700)"
     },
     "tertiary-hover": {
-      "value": "{slate.600}",
-      "type": "color",
-      "description": "icon color for tertiary-hover (aliased to slate/600)"
+      "$type": "color",
+      "$value": "{slate.600}",
+      "$description": "icon color for tertiary-hover (aliased to slate/600)"
     },
     "disabled": {
-      "value": "{slate.400}",
-      "type": "color",
-      "description": "icon color for disabled (aliased to slate/400)"
+      "$type": "color",
+      "$value": "{slate.400}",
+      "$description": "icon color for disabled (aliased to slate/400)"
     },
     "disabled-alt": {
-      "value": "{slate.300}",
-      "type": "color",
-      "description": "icon color for disabled-alt (aliased to slate/300)"
+      "$type": "color",
+      "$value": "{slate.300}",
+      "$description": "icon color for disabled-alt (aliased to slate/300)"
     },
     "placeholder": {
-      "value": "{slate.400}",
-      "type": "color",
-      "description": "icon color for placeholder (aliased to slate/400)"
+      "$type": "color",
+      "$value": "{slate.400}",
+      "$description": "icon color for placeholder (aliased to slate/400)"
     },
     "invert": {
-      "value": "{b&w.white}",
-      "type": "color",
-      "description": "icon color for on-dark-color (aliased to b&w/white)"
+      "$type": "color",
+      "$value": "{b&w.white}",
+      "$description": "icon color for on-dark-color (aliased to b&w/white)"
     },
     "accent-primary": {
-      "value": "{purple.500}",
-      "type": "color",
-      "description": "icon color for accent-primary (aliased to purple/500)"
+      "$type": "color",
+      "$value": "{purple.500}",
+      "$description": "icon color for accent-primary (aliased to purple/500)"
     },
     "accent-secondary": {
-      "value": "{purple.300}",
-      "type": "color",
-      "description": "icon color for accent-secondary (aliased to purple/300)"
+      "$type": "color",
+      "$value": "{purple.300}",
+      "$description": "icon color for accent-secondary (aliased to purple/300)"
     },
     "accent-primary-hover": {
-      "value": "{purple.600}",
-      "type": "color",
-      "description": "icon color for accent-primary-hover (aliased to purple/600)"
+      "$type": "color",
+      "$value": "{purple.600}",
+      "$description": "icon color for accent-primary-hover (aliased to purple/600)"
     },
     "accent-secondary-hover": {
-      "value": "{purple.400}",
-      "type": "color",
-      "description": "icon color for accent-secondary-hover (aliased to purple/400)"
+      "$type": "color",
+      "$value": "{purple.400}",
+      "$description": "icon color for accent-secondary-hover (aliased to purple/400)"
     },
     "error-primary": {
-      "value": "{red.600}",
-      "type": "color",
-      "description": "icon color for error-primary (aliased to red/600)"
+      "$type": "color",
+      "$value": "{red.600}",
+      "$description": "icon color for error-primary (aliased to red/600)"
     },
     "error-secondary": {
-      "value": "{red.300}",
-      "type": "color",
-      "description": "icon color for error-secondary (aliased to red/300)"
+      "$type": "color",
+      "$value": "{red.300}",
+      "$description": "icon color for error-secondary (aliased to red/300)"
     },
     "error-primary-hover": {
-      "value": "{red.600}",
-      "type": "color",
-      "description": "icon color for error-primary-hover (aliased to red/600)"
+      "$type": "color",
+      "$value": "{red.600}",
+      "$description": "icon color for error-primary-hover (aliased to red/600)"
     },
     "error-secondary-hover": {
-      "value": "{red.500}",
-      "type": "color",
-      "description": "icon color for error-secondary-hover (aliased to red/500)"
+      "$type": "color",
+      "$value": "{red.500}",
+      "$description": "icon color for error-secondary-hover (aliased to red/500)"
     },
     "success-primary": {
-      "value": "{green.600}",
-      "type": "color",
-      "description": "icon color for success-primary (aliased to green/600)"
+      "$type": "color",
+      "$value": "{green.600}",
+      "$description": "icon color for success-primary (aliased to green/600)"
     },
     "success-secondary": {
-      "value": "{green.200}",
-      "type": "color",
-      "description": "icon color for success-secondary (aliased to green/200)"
+      "$type": "color",
+      "$value": "{green.200}",
+      "$description": "icon color for success-secondary (aliased to green/200)"
     },
     "success-primary-hover": {
-      "value": "{green.700}",
-      "type": "color",
-      "description": "icon color for success-primary-hover (aliased to green/700)"
+      "$type": "color",
+      "$value": "{green.700}",
+      "$description": "icon color for success-primary-hover (aliased to green/700)"
     },
     "success-secondary-hover": {
-      "value": "{green.300}",
-      "type": "color",
-      "description": "icon color for success-secondary-hover (aliased to green/300)"
+      "$type": "color",
+      "$value": "{green.300}",
+      "$description": "icon color for success-secondary-hover (aliased to green/300)"
     },
     "warning-primary": {
-      "value": "{orange.600}",
-      "type": "color",
-      "description": "icon color for warning-primary (aliased to orange/600)"
+      "$type": "color",
+      "$value": "{orange.600}",
+      "$description": "icon color for warning-primary (aliased to orange/600)"
     },
     "warning-secondary": {
-      "value": "{orange.400}",
-      "type": "color",
-      "description": "icon color for warning-secondary (aliased to orange/400)"
+      "$type": "color",
+      "$value": "{orange.400}",
+      "$description": "icon color for warning-secondary (aliased to orange/400)"
     },
     "warning-primary-hover": {
-      "value": "{orange.700}",
-      "type": "color",
-      "description": "icon color for warning-primary-hover (aliased to orange/700)"
+      "$type": "color",
+      "$value": "{orange.700}",
+      "$description": "icon color for warning-primary-hover (aliased to orange/700)"
     },
     "warning-secondary-hover": {
-      "value": "{orange.500}",
-      "type": "color",
-      "description": "icon color for warning-secondary-hover (aliased to orange/500)"
+      "$type": "color",
+      "$value": "{orange.500}",
+      "$description": "icon color for warning-secondary-hover (aliased to orange/500)"
     },
     "info-primary": {
-      "value": "{blue.600}",
-      "type": "color",
-      "description": "icon color for info-primary (aliased to blue/600)"
+      "$type": "color",
+      "$value": "{blue.600}",
+      "$description": "icon color for info-primary (aliased to blue/600)"
     },
     "info-secondary": {
-      "value": "{blue.400}",
-      "type": "color",
-      "description": "icon color for info-secondary (aliased to blue/400)"
+      "$type": "color",
+      "$value": "{blue.400}",
+      "$description": "icon color for info-secondary (aliased to blue/400)"
     },
     "info-primary-hover": {
-      "value": "{blue.700}",
-      "type": "color",
-      "description": "icon color for info-primary-hover (aliased to blue/700)"
+      "$type": "color",
+      "$value": "{blue.700}",
+      "$description": "icon color for info-primary-hover (aliased to blue/700)"
     },
     "info-secondary-hover": {
-      "value": "{blue.500}",
-      "type": "color",
-      "description": "icon color for info-secondary-hover (aliased to blue/500)"
+      "$type": "color",
+      "$value": "{blue.500}",
+      "$description": "icon color for info-secondary-hover (aliased to blue/500)"
     },
     "offer-primary": {
-      "value": "{green.600}",
-      "type": "color",
-      "description": "icon color for offer-primary (aliased to green/600)"
+      "$type": "color",
+      "$value": "{green.600}",
+      "$description": "icon color for offer-primary (aliased to green/600)"
     },
     "offer-secondary": {
-      "value": "{green.400}",
-      "type": "color",
-      "description": "icon color for offer-secondary (aliased to green/400)"
+      "$type": "color",
+      "$value": "{green.400}",
+      "$description": "icon color for offer-secondary (aliased to green/400)"
     },
     "offer-primary-hover": {
-      "value": "{green.700}",
-      "type": "color",
-      "description": "icon color for offer-primary-hover (aliased to green/700)"
+      "$type": "color",
+      "$value": "{green.700}",
+      "$description": "icon color for offer-primary-hover (aliased to green/700)"
     },
     "offer-secondary-hover": {
-      "value": "{green.500}",
-      "type": "color",
-      "description": "icon color for offer-secondary-hover (aliased to green/500)"
+      "$type": "color",
+      "$value": "{green.500}",
+      "$description": "icon color for offer-secondary-hover (aliased to green/500)"
     },
     "live": {
-      "value": "{red.600}",
-      "type": "color"
+      "$type": "color",
+      "$value": "{red.600}"
     }
   },
   "border": {
     "primary": {
-      "value": "{slate.300}",
-      "type": "color",
-      "description": "border color for primary (aliased to slate/300)"
+      "$type": "color",
+      "$value": "{slate.300}",
+      "$description": "border color for primary (aliased to slate/300)"
     },
     "secondary": {
-      "value": "{slate.200}",
-      "type": "color",
-      "description": "border color for secondary (aliased to slate/200)"
+      "$type": "color",
+      "$value": "{slate.200}",
+      "$description": "border color for secondary (aliased to slate/200)"
     },
     "tertiary": {
-      "value": "{slate.100}",
-      "type": "color",
-      "description": "border color for tertiary (aliased to slate/100)"
+      "$type": "color",
+      "$value": "{slate.100}",
+      "$description": "border color for tertiary (aliased to slate/100)"
     },
     "primary-solid": {
-      "value": "{slate.900}",
-      "type": "color",
-      "description": "border color for primary-solid (aliased to slate/900)"
+      "$type": "color",
+      "$value": "{slate.900}",
+      "$description": "border color for primary-solid (aliased to slate/900)"
     },
     "disabled": {
-      "value": "{slate.500}",
-      "type": "color",
-      "description": "border color for disabled (aliased to slate/300)"
+      "$type": "color",
+      "$value": "{slate.500}",
+      "$description": "border color for disabled (aliased to slate/300)"
     },
     "disabled-alt": {
-      "value": "{slate.400}",
-      "type": "color",
-      "description": "border color for disabled-alt (aliased to slate/200)"
+      "$type": "color",
+      "$value": "{slate.400}",
+      "$description": "border color for disabled-alt (aliased to slate/200)"
     },
     "accent-primary": {
-      "value": "{purple.500}",
-      "type": "color",
-      "description": "border color for accent-primary (aliased to purple/500)"
+      "$type": "color",
+      "$value": "{purple.500}",
+      "$description": "border color for accent-primary (aliased to purple/500)"
     },
     "accent-secondary": {
-      "value": "{purple.100}",
-      "type": "color",
-      "description": "border color for accent-secondary (aliased to purple/100)"
+      "$type": "color",
+      "$value": "{purple.100}",
+      "$description": "border color for accent-secondary (aliased to purple/100)"
     },
     "error-primary": {
-      "value": "{purple.500}",
-      "type": "color",
-      "description": "border color for error-primary (aliased to purple/500)"
+      "$type": "color",
+      "$value": "{purple.500}",
+      "$description": "border color for error-primary (aliased to purple/500)"
     },
     "error-secondary": {
-      "value": "{purple.300}",
-      "type": "color",
-      "description": "border color for error-secondary (aliased to purple/300)"
+      "$type": "color",
+      "$value": "{purple.300}",
+      "$description": "border color for error-secondary (aliased to purple/300)"
     },
     "success-primary": {
-      "value": "{green.500}",
-      "type": "color",
-      "description": "border color for success-primary (aliased to green/500)"
+      "$type": "color",
+      "$value": "{green.500}",
+      "$description": "border color for success-primary (aliased to green/500)"
     },
     "success-secondary": {
-      "value": "{green.300}",
-      "type": "color",
-      "description": "border color for success-secondary (aliased to green/300)"
+      "$type": "color",
+      "$value": "{green.300}",
+      "$description": "border color for success-secondary (aliased to green/300)"
     },
     "warning-primary": {
-      "value": "{orange.500}",
-      "type": "color",
-      "description": "border color for warning-primary (aliased to orange/500)"
+      "$type": "color",
+      "$value": "{orange.500}",
+      "$description": "border color for warning-primary (aliased to orange/500)"
     },
     "warning-secondary": {
-      "value": "{orange.300}",
-      "type": "color",
-      "description": "border color for warning-secondary (aliased to orange/300)"
+      "$type": "color",
+      "$value": "{orange.300}",
+      "$description": "border color for warning-secondary (aliased to orange/300)"
     },
     "info-primary": {
-      "value": "{blue.500}",
-      "type": "color",
-      "description": "border color for info-primary (aliased to blue/500)"
+      "$type": "color",
+      "$value": "{blue.500}",
+      "$description": "border color for info-primary (aliased to blue/500)"
     },
     "info-secondary": {
-      "value": "{blue.300}",
-      "type": "color",
-      "description": "border color for info-secondary (aliased to blue/300)"
+      "$type": "color",
+      "$value": "{blue.300}",
+      "$description": "border color for info-secondary (aliased to blue/300)"
     },
     "offer-primary": {
-      "value": "{green.500}",
-      "type": "color",
-      "description": "border color for offer-primary (aliased to green/500)"
+      "$type": "color",
+      "$value": "{green.500}",
+      "$description": "border color for offer-primary (aliased to green/500)"
     },
     "offer-secondary": {
-      "value": "{green.300}",
-      "type": "color",
-      "description": "border color for offer-secondary (aliased to green/300)"
+      "$type": "color",
+      "$value": "{green.300}",
+      "$description": "border color for offer-secondary (aliased to green/300)"
     }
   }
 }

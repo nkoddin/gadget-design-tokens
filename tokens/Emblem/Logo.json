@@ -1,6 +1,6 @@
 {
   "Emblem": {
-    "value": "Logo",
-    "type": "text"
+    "$type": "text",
+    "$value": "Logo"
   }
 }

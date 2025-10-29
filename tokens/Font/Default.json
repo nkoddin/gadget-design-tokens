@@ -1,6 +1,6 @@
 {
   "Font": {
-    "value": "Inter",
-    "type": "text"
+    "$type": "text",
+    "$value": "Inter"
   }
 }

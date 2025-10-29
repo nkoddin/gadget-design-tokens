@@ -1,460 +1,460 @@
 {
   "Family": {
     "primary": {
-      "value": "Inter",
-      "type": "text",
-      "description": "Primary font family"
+      "$type": "text",
+      "$value": "Inter",
+      "$description": "Primary font family"
     }
   },
   "Title": {
     "Title-1": {
       "fontFamily": {
-        "value": "{Family.primary}",
-        "type": "text",
-        "description": "Font family for Title/Title-1"
+        "$type": "text",
+        "$value": "{Family.primary}",
+        "$description": "Font family for Title/Title-1"
       },
       "fontSize": {
-        "value": 64,
-        "type": "number",
-        "description": "Font size for Title/Title-1"
+        "$type": "number",
+        "$value": 64,
+        "$description": "Font size for Title/Title-1"
       },
       "lineHeight": {
-        "value": 70,
-        "type": "number",
-        "description": "Line height for Title/Title-1"
+        "$type": "number",
+        "$value": 70,
+        "$description": "Line height for Title/Title-1"
       },
       "letterSpacing": {
-        "value": -0.8,
-        "type": "number",
-        "description": "Letter spacing for Title/Title-1"
+        "$type": "number",
+        "$value": -0.8,
+        "$description": "Letter spacing for Title/Title-1"
       }
     },
     "Title-2": {
       "fontFamily": {
-        "value": "{Family.primary}",
-        "type": "text",
-        "description": "Font family for Title/Title-2"
+        "$type": "text",
+        "$value": "{Family.primary}",
+        "$description": "Font family for Title/Title-2"
       },
       "fontSize": {
-        "value": 40,
-        "type": "number",
-        "description": "Font size for Title/Title-2"
+        "$type": "number",
+        "$value": 40,
+        "$description": "Font size for Title/Title-2"
       },
       "lineHeight": {
-        "value": 48,
-        "type": "number",
-        "description": "Line height for Title/Title-2"
+        "$type": "number",
+        "$value": 48,
+        "$description": "Line height for Title/Title-2"
       },
       "letterSpacing": {
-        "value": -0.64,
-        "type": "number",
-        "description": "Letter spacing for Title/Title-2"
+        "$type": "number",
+        "$value": -0.64,
+        "$description": "Letter spacing for Title/Title-2"
       }
     },
     "Title-3": {
       "fontFamily": {
-        "value": "{Family.primary}",
-        "type": "text",
-        "description": "Font family for Title/Title-3"
+        "$type": "text",
+        "$value": "{Family.primary}",
+        "$description": "Font family for Title/Title-3"
       },
       "fontSize": {
-        "value": 32,
-        "type": "number",
-        "description": "Font size for Title/Title-3"
+        "$type": "number",
+        "$value": 32,
+        "$description": "Font size for Title/Title-3"
       },
       "lineHeight": {
-        "value": 36,
-        "type": "number",
-        "description": "Line height for Title/Title-3"
+        "$type": "number",
+        "$value": 36,
+        "$description": "Line height for Title/Title-3"
       },
       "letterSpacing": {
-        "value": -0.6,
-        "type": "number",
-        "description": "Letter spacing for Title/Title-3"
+        "$type": "number",
+        "$value": -0.6,
+        "$description": "Letter spacing for Title/Title-3"
       }
     }
   },
   "Heading": {
     "H1": {
       "fontFamily": {
-        "value": "{Family.primary}",
-        "type": "text",
-        "description": "Font family for Heading/H1"
+        "$type": "text",
+        "$value": "{Family.primary}",
+        "$description": "Font family for Heading/H1"
       },
       "fontSize": {
-        "value": 28,
-        "type": "number",
-        "description": "Font size for Heading/H1"
+        "$type": "number",
+        "$value": 28,
+        "$description": "Font size for Heading/H1"
       },
       "lineHeight": {
-        "value": 32,
-        "type": "number",
-        "description": "Line height for Heading/H1"
+        "$type": "number",
+        "$value": 32,
+        "$description": "Line height for Heading/H1"
       },
       "letterSpacing": {
-        "value": -0.56,
-        "type": "number",
-        "description": "Letter spacing for Heading/H1"
+        "$type": "number",
+        "$value": -0.56,
+        "$description": "Letter spacing for Heading/H1"
       }
     },
     "H2": {
       "fontFamily": {
-        "value": "{Family.primary}",
-        "type": "text",
-        "description": "Font family for Heading/H2"
+        "$type": "text",
+        "$value": "{Family.primary}",
+        "$description": "Font family for Heading/H2"
       },
       "fontSize": {
-        "value": 26,
-        "type": "number",
-        "description": "Font size for Heading/H2"
+        "$type": "number",
+        "$value": 26,
+        "$description": "Font size for Heading/H2"
       },
       "lineHeight": {
-        "value": 30,
-        "type": "number",
-        "description": "Line height for Heading/H2"
+        "$type": "number",
+        "$value": 30,
+        "$description": "Line height for Heading/H2"
       },
       "letterSpacing": {
-        "value": -0.26,
-        "type": "number",
-        "description": "Letter spacing for Heading/H2"
+        "$type": "number",
+        "$value": -0.26,
+        "$description": "Letter spacing for Heading/H2"
       }
     },
     "H3": {
       "fontFamily": {
-        "value": "{Family.primary}",
-        "type": "text",
-        "description": "Font family for Heading/H3"
+        "$type": "text",
+        "$value": "{Family.primary}",
+        "$description": "Font family for Heading/H3"
       },
       "fontSize": {
-        "value": 24,
-        "type": "number",
-        "description": "Font size for Heading/H3"
+        "$type": "number",
+        "$value": 24,
+        "$description": "Font size for Heading/H3"
       },
       "lineHeight": {
-        "value": 28,
-        "type": "number",
-        "description": "Line height for Heading/H3"
+        "$type": "number",
+        "$value": 28,
+        "$description": "Line height for Heading/H3"
       },
       "letterSpacing": {
-        "value": -0.24,
-        "type": "number",
-        "description": "Letter spacing for Heading/H3"
+        "$type": "number",
+        "$value": -0.24,
+        "$description": "Letter spacing for Heading/H3"
       }
     },
     "H4": {
       "fontFamily": {
-        "value": "{Family.primary}",
-        "type": "text",
-        "description": "Font family for Heading/H4"
+        "$type": "text",
+        "$value": "{Family.primary}",
+        "$description": "Font family for Heading/H4"
       },
       "fontSize": {
-        "value": 20,
-        "type": "number",
-        "description": "Font size for Heading/H4"
+        "$type": "number",
+        "$value": 20,
+        "$description": "Font size for Heading/H4"
       },
       "lineHeight": {
-        "value": 24,
-        "type": "number",
-        "description": "Line height for Heading/H4"
+        "$type": "number",
+        "$value": 24,
+        "$description": "Line height for Heading/H4"
       },
       "letterSpacing": {
-        "value": -0.2,
-        "type": "number",
-        "description": "Letter spacing for Heading/H4"
+        "$type": "number",
+        "$value": -0.2,
+        "$description": "Letter spacing for Heading/H4"
       }
     }
   },
   "Label": {
     "Label-1": {
       "fontFamily": {
-        "value": "{Family.primary}",
-        "type": "text",
-        "description": "Font family for Label/Label-1"
+        "$type": "text",
+        "$value": "{Family.primary}",
+        "$description": "Font family for Label/Label-1"
       },
       "fontSize": {
-        "value": 17,
-        "type": "number",
-        "description": "Font size for Label/Label-1"
+        "$type": "number",
+        "$value": 17,
+        "$description": "Font size for Label/Label-1"
       },
       "lineHeight": {
-        "value": 20,
-        "type": "number",
-        "description": "Line height for Label/Label-1"
+        "$type": "number",
+        "$value": 20,
+        "$description": "Line height for Label/Label-1"
       },
       "letterSpacing": {
-        "value": -0.18,
-        "type": "number",
-        "description": "Letter spacing for Label/Label-1"
+        "$type": "number",
+        "$value": -0.18,
+        "$description": "Letter spacing for Label/Label-1"
       }
     },
     "Label-2": {
       "fontFamily": {
-        "value": "{Family.primary}",
-        "type": "text",
-        "description": "Font family for Label/Label-2"
+        "$type": "text",
+        "$value": "{Family.primary}",
+        "$description": "Font family for Label/Label-2"
       },
       "fontSize": {
-        "value": 15,
-        "type": "number",
-        "description": "Font size for Label/Label-2"
+        "$type": "number",
+        "$value": 15,
+        "$description": "Font size for Label/Label-2"
       },
       "lineHeight": {
-        "value": 18,
-        "type": "number",
-        "description": "Line height for Label/Label-2"
+        "$type": "number",
+        "$value": 18,
+        "$description": "Line height for Label/Label-2"
       },
       "letterSpacing": {
-        "value": -0.16,
-        "type": "number",
-        "description": "Letter spacing for Label/Label-2"
+        "$type": "number",
+        "$value": -0.16,
+        "$description": "Letter spacing for Label/Label-2"
       }
     },
     "Label-3": {
       "fontFamily": {
-        "value": "{Family.primary}",
-        "type": "text",
-        "description": "Font family for Label/Label-3"
+        "$type": "text",
+        "$value": "{Family.primary}",
+        "$description": "Font family for Label/Label-3"
       },
       "fontSize": {
-        "value": 13,
-        "type": "number",
-        "description": "Font size for Label/Label-3"
+        "$type": "number",
+        "$value": 13,
+        "$description": "Font size for Label/Label-3"
       },
       "lineHeight": {
-        "value": 16,
-        "type": "number",
-        "description": "Line height for Label/Label-3"
+        "$type": "number",
+        "$value": 16,
+        "$description": "Line height for Label/Label-3"
       },
       "letterSpacing": {
-        "value": -0.14,
-        "type": "number",
-        "description": "Letter spacing for Label/Label-3"
+        "$type": "number",
+        "$value": -0.14,
+        "$description": "Letter spacing for Label/Label-3"
       }
     },
     "Label-4": {
       "fontFamily": {
-        "value": "{Family.primary}",
-        "type": "text",
-        "description": "Font family for Label/Label-4"
+        "$type": "text",
+        "$value": "{Family.primary}",
+        "$description": "Font family for Label/Label-4"
       },
       "fontSize": {
-        "value": 12,
-        "type": "number",
-        "description": "Font size for Label/Label-4"
+        "$type": "number",
+        "$value": 12,
+        "$description": "Font size for Label/Label-4"
       },
       "lineHeight": {
-        "value": 14,
-        "type": "number",
-        "description": "Line height for Label/Label-4"
+        "$type": "number",
+        "$value": 14,
+        "$description": "Line height for Label/Label-4"
       },
       "letterSpacing": {
-        "value": -0.12,
-        "type": "number",
-        "description": "Letter spacing for Label/Label-4"
+        "$type": "number",
+        "$value": -0.12,
+        "$description": "Letter spacing for Label/Label-4"
       }
     },
     "Label-5": {
       "fontFamily": {
-        "value": "{Family.primary}",
-        "type": "text",
-        "description": "Font family for Label/Label-5"
+        "$type": "text",
+        "$value": "{Family.primary}",
+        "$description": "Font family for Label/Label-5"
       },
       "fontSize": {
-        "value": 11,
-        "type": "number",
-        "description": "Font size for Label/Label-5"
+        "$type": "number",
+        "$value": 11,
+        "$description": "Font size for Label/Label-5"
       },
       "lineHeight": {
-        "value": 14,
-        "type": "number",
-        "description": "Line height for Label/Label-5"
+        "$type": "number",
+        "$value": 14,
+        "$description": "Line height for Label/Label-5"
       },
       "letterSpacing": {
-        "value": -0.1,
-        "type": "number",
-        "description": "Letter spacing for Label/Label-5"
+        "$type": "number",
+        "$value": -0.1,
+        "$description": "Letter spacing for Label/Label-5"
       }
     }
   },
   "Body": {
     "Body-1": {
       "fontFamily": {
-        "value": "{Family.primary}",
-        "type": "text",
-        "description": "Font family for Body/Body-1"
+        "$type": "text",
+        "$value": "{Family.primary}",
+        "$description": "Font family for Body/Body-1"
       },
       "fontSize": {
-        "value": 16,
-        "type": "number",
-        "description": "Font size for Body/Body-1"
+        "$type": "number",
+        "$value": 16,
+        "$description": "Font size for Body/Body-1"
       },
       "lineHeight": {
-        "value": 22,
-        "type": "number",
-        "description": "Line height for Body/Body-1"
+        "$type": "number",
+        "$value": 22,
+        "$description": "Line height for Body/Body-1"
       },
       "letterSpacing": {
-        "value": 0,
-        "type": "number",
-        "description": "Letter spacing for Body/Body-1"
+        "$type": "number",
+        "$value": 0,
+        "$description": "Letter spacing for Body/Body-1"
       }
     },
     "Body-2": {
       "fontFamily": {
-        "value": "{Family.primary}",
-        "type": "text",
-        "description": "Font family for Body/Body-2"
+        "$type": "text",
+        "$value": "{Family.primary}",
+        "$description": "Font family for Body/Body-2"
       },
       "fontSize": {
-        "value": 14,
-        "type": "number",
-        "description": "Font size for Body/Body-2"
+        "$type": "number",
+        "$value": 14,
+        "$description": "Font size for Body/Body-2"
       },
       "lineHeight": {
-        "value": 20,
-        "type": "number",
-        "description": "Line height for Body/Body-2"
+        "$type": "number",
+        "$value": 20,
+        "$description": "Line height for Body/Body-2"
       },
       "letterSpacing": {
-        "value": 0,
-        "type": "number",
-        "description": "Letter spacing for Body/Body-2"
+        "$type": "number",
+        "$value": 0,
+        "$description": "Letter spacing for Body/Body-2"
       }
     },
     "Body-3": {
       "fontFamily": {
-        "value": "{Family.primary}",
-        "type": "text",
-        "description": "Font family for Body/Body-3"
+        "$type": "text",
+        "$value": "{Family.primary}",
+        "$description": "Font family for Body/Body-3"
       },
       "fontSize": {
-        "value": 12,
-        "type": "number",
-        "description": "Font size for Body/Body-3"
+        "$type": "number",
+        "$value": 12,
+        "$description": "Font size for Body/Body-3"
       },
       "lineHeight": {
-        "value": 16,
-        "type": "number",
-        "description": "Line height for Body/Body-3"
+        "$type": "number",
+        "$value": 16,
+        "$description": "Line height for Body/Body-3"
       },
       "letterSpacing": {
-        "value": 0,
-        "type": "number",
-        "description": "Letter spacing for Body/Body-3"
+        "$type": "number",
+        "$value": 0,
+        "$description": "Letter spacing for Body/Body-3"
       }
     }
   },
   "Tiny": {
     "fontFamily": {
-      "value": "{Family.primary}",
-      "type": "text",
-      "description": "Font family for Tiny"
+      "$type": "text",
+      "$value": "{Family.primary}",
+      "$description": "Font family for Tiny"
     },
     "fontSize": {
-      "value": 10,
-      "type": "number",
-      "description": "Font size for Tiny"
+      "$type": "number",
+      "$value": 10,
+      "$description": "Font size for Tiny"
     },
     "lineHeight": {
-      "value": 12,
-      "type": "number",
-      "description": "Line height for Tiny"
+      "$type": "number",
+      "$value": 12,
+      "$description": "Line height for Tiny"
     },
     "letterSpacing": {
-      "value": 0,
-      "type": "number",
-      "description": "Letter spacing for Tiny"
+      "$type": "number",
+      "$value": 0,
+      "$description": "Letter spacing for Tiny"
     }
   },
   "Tiny Extended": {
     "fontFamily": {
-      "value": "{Family.primary}",
-      "type": "text",
-      "description": "Font family for Tiny Extended"
+      "$type": "text",
+      "$value": "{Family.primary}",
+      "$description": "Font family for Tiny Extended"
     },
     "fontSize": {
-      "value": 10,
-      "type": "number",
-      "description": "Font size for Tiny Extended"
+      "$type": "number",
+      "$value": 10,
+      "$description": "Font size for Tiny Extended"
     },
     "lineHeight": {
-      "value": 12,
-      "type": "number",
-      "description": "Line height for Tiny Extended"
+      "$type": "number",
+      "$value": 12,
+      "$description": "Line height for Tiny Extended"
     },
     "letterSpacing": {
-      "value": 1,
-      "type": "number",
-      "description": "Letter spacing for Tiny Extended"
+      "$type": "number",
+      "$value": 1,
+      "$description": "Letter spacing for Tiny Extended"
     }
   },
   "Micro": {
     "fontFamily": {
-      "value": "{Family.primary}",
-      "type": "text",
-      "description": "Font family for Micro"
+      "$type": "text",
+      "$value": "{Family.primary}",
+      "$description": "Font family for Micro"
     },
     "fontSize": {
-      "value": 9,
-      "type": "number",
-      "description": "Font size for Micro"
+      "$type": "number",
+      "$value": 9,
+      "$description": "Font size for Micro"
     },
     "lineHeight": {
-      "value": 10,
-      "type": "number",
-      "description": "Line height for Micro"
+      "$type": "number",
+      "$value": 10,
+      "$description": "Line height for Micro"
     },
     "letterSpacing": {
-      "value": 0,
-      "type": "number",
-      "description": "Letter spacing for Micro"
+      "$type": "number",
+      "$value": 0,
+      "$description": "Letter spacing for Micro"
     }
   },
   "Weights": {
     "Thin": {
-      "value": 100,
-      "type": "number",
-      "description": "Font weight for Thin"
+      "$type": "number",
+      "$value": 100,
+      "$description": "Font weight for Thin"
     },
     "ExtraLight": {
-      "value": 200,
-      "type": "number",
-      "description": "Font weight for ExtraLight"
+      "$type": "number",
+      "$value": 200,
+      "$description": "Font weight for ExtraLight"
     },
     "Light": {
-      "value": 300,
-      "type": "number",
-      "description": "Font weight for Light"
+      "$type": "number",
+      "$value": 300,
+      "$description": "Font weight for Light"
     },
     "Regular": {
-      "value": 400,
-      "type": "number",
-      "description": "Font weight for Regular"
+      "$type": "number",
+      "$value": 400,
+      "$description": "Font weight for Regular"
     },
     "Medium": {
-      "value": 500,
-      "type": "number",
-      "description": "Font weight for Medium"
+      "$type": "number",
+      "$value": 500,
+      "$description": "Font weight for Medium"
     },
     "SemiBold": {
-      "value": 600,
-      "type": "number",
-      "description": "Font weight for SemiBold"
+      "$type": "number",
+      "$value": 600,
+      "$description": "Font weight for SemiBold"
     },
     "Bold": {
-      "value": 700,
-      "type": "number",
-      "description": "Font weight for Bold"
+      "$type": "number",
+      "$value": 700,
+      "$description": "Font weight for Bold"
     },
     "ExtraBold": {
-      "value": 800,
-      "type": "number",
-      "description": "Font weight for ExtraBold"
+      "$type": "number",
+      "$value": 800,
+      "$description": "Font weight for ExtraBold"
     },
     "Black": {
-      "value": 900,
-      "type": "number",
-      "description": "Font weight for Black"
+      "$type": "number",
+      "$value": 900,
+      "$description": "Font weight for Black"
     }
   }
 }

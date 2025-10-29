@@ -1,6 +1,6 @@
 {
   "Layout": {
-    "value": "Dunja",
-    "type": "text"
+    "$type": "text",
+    "$value": "Dunja"
   }
 }

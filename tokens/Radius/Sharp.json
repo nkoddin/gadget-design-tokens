@@ -1,52 +1,52 @@
 {
   "none": {
-    "value": 0,
-    "type": "number",
-    "description": "Radius value for none (tshirt)"
+    "$type": "number",
+    "$value": 0,
+    "$description": "Radius value for none (tshirt)"
   },
   "sm": {
-    "value": 1,
-    "type": "number",
-    "description": "Radius value for sm (tshirt)"
+    "$type": "number",
+    "$value": 1,
+    "$description": "Radius value for sm (tshirt)"
   },
   "md": {
-    "value": 2,
-    "type": "number",
-    "description": "Radius value for md (tshirt)"
+    "$type": "number",
+    "$value": 2,
+    "$description": "Radius value for md (tshirt)"
   },
   "lg": {
-    "value": 4,
-    "type": "number",
-    "description": "Radius value for lg (tshirt)"
+    "$type": "number",
+    "$value": 4,
+    "$description": "Radius value for lg (tshirt)"
   },
   "xl": {
-    "value": 6,
-    "type": "number",
-    "description": "Radius value for xl (tshirt)"
+    "$type": "number",
+    "$value": 6,
+    "$description": "Radius value for xl (tshirt)"
   },
   "2xl": {
-    "value": 8,
-    "type": "number",
-    "description": "Radius value for 2xl (tshirt)"
+    "$type": "number",
+    "$value": 8,
+    "$description": "Radius value for 2xl (tshirt)"
   },
   "3xl": {
-    "value": 12,
-    "type": "number",
-    "description": "Radius value for 3xl (tshirt)"
+    "$type": "number",
+    "$value": 12,
+    "$description": "Radius value for 3xl (tshirt)"
   },
   "4xl": {
-    "value": 16,
-    "type": "number",
-    "description": "Radius value for 4xl (tshirt)"
+    "$type": "number",
+    "$value": 16,
+    "$description": "Radius value for 4xl (tshirt)"
   },
   "5xl": {
-    "value": 24,
-    "type": "number",
-    "description": "Radius value for 5xl (tshirt)"
+    "$type": "number",
+    "$value": 24,
+    "$description": "Radius value for 5xl (tshirt)"
   },
   "full": {
-    "value": 48,
-    "type": "number",
-    "description": "Radius value for full (tshirt)"
+    "$type": "number",
+    "$value": 48,
+    "$description": "Radius value for full (tshirt)"
   }
 }

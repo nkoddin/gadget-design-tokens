@@ -1,6 +1,6 @@
 {
   "Layout": {
-    "value": "Default",
-    "type": "text"
+    "$type": "text",
+    "$value": "Default"
   }
 }

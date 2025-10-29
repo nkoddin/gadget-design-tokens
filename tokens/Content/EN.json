@@ -3,994 +3,994 @@
     "laLiga": {
       "barcelona": {
         "primary": {
-          "value": "#a50044",
-          "type": "color"
+          "$type": "color",
+          "$value": "#a50044"
         },
         "secondary": {
-          "value": "#004d98",
-          "type": "color"
+          "$type": "color",
+          "$value": "#004d98"
         },
         "name": {
-          "value": "FC Barcelona",
-          "type": "text"
+          "$type": "text",
+          "$value": "FC Barcelona"
         },
         "logo": {
-          "value": "barcelona",
-          "type": "text"
+          "$type": "text",
+          "$value": "barcelona"
         }
       },
       "realMadrid": {
         "primary": {
-          "value": "#febe10",
-          "type": "color"
+          "$type": "color",
+          "$value": "#febe10"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "logo": {
-          "value": "realMadrid",
-          "type": "text"
+          "$type": "text",
+          "$value": "realMadrid"
         },
         "name": {
-          "value": "Real Madrid",
-          "type": "text"
+          "$type": "text",
+          "$value": "Real Madrid"
         }
       },
       "atleticoDeMadrid": {
         "primary": {
-          "value": "#c5302f",
-          "type": "color"
+          "$type": "color",
+          "$value": "#c5302f"
         },
         "secondary": {
-          "value": "#00529f",
-          "type": "color"
+          "$type": "color",
+          "$value": "#00529f"
         },
         "name": {
-          "value": "Atlético de Madrid",
-          "type": "text"
+          "$type": "text",
+          "$value": "Atlético de Madrid"
         },
         "logo": {
-          "value": "atleticoDeMadrid",
-          "type": "text"
+          "$type": "text",
+          "$value": "atleticoDeMadrid"
         }
       },
       "sevilla": {
         "primary": {
-          "value": "#d71a28",
-          "type": "color"
+          "$type": "color",
+          "$value": "#d71a28"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Sevilla FC",
-          "type": "text"
+          "$type": "text",
+          "$value": "Sevilla FC"
         },
         "logo": {
-          "value": "sevilla",
-          "type": "text"
+          "$type": "text",
+          "$value": "sevilla"
         }
       },
       "realSociedad": {
         "primary": {
-          "value": "#00529f",
-          "type": "color"
+          "$type": "color",
+          "$value": "#00529f"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Real Sociedad",
-          "type": "text"
+          "$type": "text",
+          "$value": "Real Sociedad"
         },
         "logo": {
-          "value": "realSociedad",
-          "type": "text"
+          "$type": "text",
+          "$value": "realSociedad"
         }
       },
       "villarreal": {
         "primary": {
-          "value": "#fff200",
-          "type": "color"
+          "$type": "color",
+          "$value": "#fff200"
         },
         "secondary": {
-          "value": "#00529f",
-          "type": "color"
+          "$type": "color",
+          "$value": "#00529f"
         },
         "name": {
-          "value": "Villarreal CF",
-          "type": "text"
+          "$type": "text",
+          "$value": "Villarreal CF"
         },
         "logo": {
-          "value": "villarreal",
-          "type": "text"
+          "$type": "text",
+          "$value": "villarreal"
         }
       },
       "athleticClubBilbao": {
         "primary": {
-          "value": "#ee2e24",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ee2e24"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Athletic Club Bilbao",
-          "type": "text"
+          "$type": "text",
+          "$value": "Athletic Club Bilbao"
         },
         "logo": {
-          "value": "athleticClubBilbao",
-          "type": "text"
+          "$type": "text",
+          "$value": "athleticClubBilbao"
         }
       },
       "league": {
         "name": {
-          "value": "LaLiga",
-          "type": "text"
+          "$type": "text",
+          "$value": "LaLiga"
         },
         "icon": {
-          "value": "spain",
-          "type": "text"
+          "$type": "text",
+          "$value": "spain"
         },
         "country": {
-          "value": "Spain",
-          "type": "text"
+          "$type": "text",
+          "$value": "Spain"
         }
       }
     },
     "premierLeague": {
       "manchesterUnited": {
         "primary": {
-          "value": "#da291c",
-          "type": "color"
+          "$type": "color",
+          "$value": "#da291c"
         },
         "secondary": {
-          "value": "#fbe122",
-          "type": "color"
+          "$type": "color",
+          "$value": "#fbe122"
         },
         "name": {
-          "value": "Manchester United FC",
-          "type": "text"
+          "$type": "text",
+          "$value": "Manchester United FC"
         },
         "logo": {
-          "value": "manchesterUnited",
-          "type": "text"
+          "$type": "text",
+          "$value": "manchesterUnited"
         }
       },
       "manchesterCity": {
         "primary": {
-          "value": "#6cabdd",
-          "type": "color"
+          "$type": "color",
+          "$value": "#6cabdd"
         },
         "secondary": {
-          "value": "#1c2c5b",
-          "type": "color"
+          "$type": "color",
+          "$value": "#1c2c5b"
         },
         "name": {
-          "value": "Manchester City FC",
-          "type": "text"
+          "$type": "text",
+          "$value": "Manchester City FC"
         },
         "logo": {
-          "value": "manchesterCity",
-          "type": "text"
+          "$type": "text",
+          "$value": "manchesterCity"
         }
       },
       "liverpool": {
         "primary": {
-          "value": "#c8102e",
-          "type": "color"
+          "$type": "color",
+          "$value": "#c8102e"
         },
         "secondary": {
-          "value": "#00b2a9",
-          "type": "color"
+          "$type": "color",
+          "$value": "#00b2a9"
         },
         "name": {
-          "value": "Liverpool FC",
-          "type": "text"
+          "$type": "text",
+          "$value": "Liverpool FC"
         },
         "logo": {
-          "value": "liverpool",
-          "type": "text"
+          "$type": "text",
+          "$value": "liverpool"
         }
       },
       "chelsea": {
         "primary": {
-          "value": "#034694",
-          "type": "color"
+          "$type": "color",
+          "$value": "#034694"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Chelsea FC",
-          "type": "text"
+          "$type": "text",
+          "$value": "Chelsea FC"
         },
         "logo": {
-          "value": "chelsea",
-          "type": "text"
+          "$type": "text",
+          "$value": "chelsea"
         }
       },
       "arsenal": {
         "primary": {
-          "value": "#ef0107",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ef0107"
         },
         "secondary": {
-          "value": "#9c824a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#9c824a"
         },
         "name": {
-          "value": "Arsenal FC",
-          "type": "text"
+          "$type": "text",
+          "$value": "Arsenal FC"
         },
         "logo": {
-          "value": "arsenal",
-          "type": "text"
+          "$type": "text",
+          "$value": "arsenal"
         }
       },
       "tottenhamHotspur": {
         "primary": {
-          "value": "#132257",
-          "type": "color"
+          "$type": "color",
+          "$value": "#132257"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Tottenham Hotspur FCC",
-          "type": "text"
+          "$type": "text",
+          "$value": "Tottenham Hotspur FCC"
         },
         "logo": {
-          "value": "tottenhamHotspur",
-          "type": "text"
+          "$type": "text",
+          "$value": "tottenhamHotspur"
         }
       },
       "newcastleUnited": {
         "primary": {
-          "value": "#241f20",
-          "type": "color"
+          "$type": "color",
+          "$value": "#241f20"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Newcastle United FC",
-          "type": "text"
+          "$type": "text",
+          "$value": "Newcastle United FC"
         },
         "logo": {
-          "value": "newcastleUnited",
-          "type": "text"
+          "$type": "text",
+          "$value": "newcastleUnited"
         }
       },
       "league": {
         "name": {
-          "value": "Premier League",
-          "type": "text"
+          "$type": "text",
+          "$value": "Premier League"
         },
         "icon": {
-          "value": "uk",
-          "type": "text"
+          "$type": "text",
+          "$value": "uk"
         },
         "country": {
-          "value": "England",
-          "type": "text"
+          "$type": "text",
+          "$value": "England"
         }
       }
     },
     "serieA": {
       "juventus": {
         "primary": {
-          "value": "#000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000000"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Juventus FC",
-          "type": "text"
+          "$type": "text",
+          "$value": "Juventus FC"
         },
         "logo": {
-          "value": "juventus",
-          "type": "text"
+          "$type": "text",
+          "$value": "juventus"
         }
       },
       "acMilan": {
         "primary": {
-          "value": "#a6192e",
-          "type": "color"
+          "$type": "color",
+          "$value": "#a6192e"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "AC Milan",
-          "type": "text"
+          "$type": "text",
+          "$value": "AC Milan"
         },
         "logo": {
-          "value": "acMilan",
-          "type": "text"
+          "$type": "text",
+          "$value": "acMilan"
         }
       },
       "interMilan": {
         "primary": {
-          "value": "#0057b8",
-          "type": "color"
+          "$type": "color",
+          "$value": "#0057b8"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Inter Milan",
-          "type": "text"
+          "$type": "text",
+          "$value": "Inter Milan"
         },
         "logo": {
-          "value": "interMilan",
-          "type": "text"
+          "$type": "text",
+          "$value": "interMilan"
         }
       },
       "asRoma": {
         "primary": {
-          "value": "#8e1a1a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#8e1a1a"
         },
         "secondary": {
-          "value": "#f7d417",
-          "type": "color"
+          "$type": "color",
+          "$value": "#f7d417"
         },
         "name": {
-          "value": "AS Roma",
-          "type": "text"
+          "$type": "text",
+          "$value": "AS Roma"
         },
         "logo": {
-          "value": "asRoma",
-          "type": "text"
+          "$type": "text",
+          "$value": "asRoma"
         }
       },
       "sscNapoli": {
         "primary": {
-          "value": "#00a3e0",
-          "type": "color"
+          "$type": "color",
+          "$value": "#00a3e0"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "SSC Napoli",
-          "type": "text"
+          "$type": "text",
+          "$value": "SSC Napoli"
         },
         "logo": {
-          "value": "sscNapoli",
-          "type": "text"
+          "$type": "text",
+          "$value": "sscNapoli"
         }
       },
       "lazioRoma": {
         "primary": {
-          "value": "#a8d4e0",
-          "type": "color"
+          "$type": "color",
+          "$value": "#a8d4e0"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Lazio Roma",
-          "type": "text"
+          "$type": "text",
+          "$value": "Lazio Roma"
         },
         "logo": {
-          "value": "lazioRoma",
-          "type": "text"
+          "$type": "text",
+          "$value": "lazioRoma"
         }
       },
       "fiorentina": {
         "primary": {
-          "value": "#53257f",
-          "type": "color"
+          "$type": "color",
+          "$value": "#53257f"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Fiorentina ACF",
-          "type": "text"
+          "$type": "text",
+          "$value": "Fiorentina ACF"
         },
         "logo": {
-          "value": "fiorentina",
-          "type": "text"
+          "$type": "text",
+          "$value": "fiorentina"
         }
       },
       "league": {
         "name": {
-          "value": "Serie A",
-          "type": "text"
+          "$type": "text",
+          "$value": "Serie A"
         },
         "icon": {
-          "value": "italy",
-          "type": "text"
+          "$type": "text",
+          "$value": "italy"
         },
         "country": {
-          "value": "Italy",
-          "type": "text"
+          "$type": "text",
+          "$value": "Italy"
         }
       }
     },
     "bundesliga": {
       "bayernMunich": {
         "primary": {
-          "value": "#dc052d",
-          "type": "color"
+          "$type": "color",
+          "$value": "#dc052d"
         },
         "secondary": {
-          "value": "#0066b2",
-          "type": "color"
+          "$type": "color",
+          "$value": "#0066b2"
         },
         "name": {
-          "value": "FC Bayern München",
-          "type": "text"
+          "$type": "text",
+          "$value": "FC Bayern München"
         },
         "logo": {
-          "value": "bayernMunich",
-          "type": "text"
+          "$type": "text",
+          "$value": "bayernMunich"
         }
       },
       "borussiaDortmund": {
         "primary": {
-          "value": "#fde100",
-          "type": "color"
+          "$type": "color",
+          "$value": "#fde100"
         },
         "secondary": {
-          "value": "#000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000000"
         },
         "name": {
-          "value": "Borussia Dortmund",
-          "type": "text"
+          "$type": "text",
+          "$value": "Borussia Dortmund"
         },
         "logo": {
-          "value": "borussiaDortmund",
-          "type": "text"
+          "$type": "text",
+          "$value": "borussiaDortmund"
         }
       },
       "leipzig": {
         "primary": {
-          "value": "#d71920",
-          "type": "color"
+          "$type": "color",
+          "$value": "#d71920"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "RB Leipzig",
-          "type": "text"
+          "$type": "text",
+          "$value": "RB Leipzig"
         },
         "logo": {
-          "value": "leipzig",
-          "type": "text"
+          "$type": "text",
+          "$value": "leipzig"
         }
       },
       "bayerLeverkusen": {
         "primary": {
-          "value": "#e32219",
-          "type": "color"
+          "$type": "color",
+          "$value": "#e32219"
         },
         "secondary": {
-          "value": "#000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000000"
         },
         "name": {
-          "value": "Bayer 04 Leverkusen",
-          "type": "text"
+          "$type": "text",
+          "$value": "Bayer 04 Leverkusen"
         },
         "logo": {
-          "value": "bayerLeverkusen",
-          "type": "text"
+          "$type": "text",
+          "$value": "bayerLeverkusen"
         }
       },
       "wolfsburg": {
         "primary": {
-          "value": "#65b32e",
-          "type": "color"
+          "$type": "color",
+          "$value": "#65b32e"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "VfL Wolfsburg",
-          "type": "text"
+          "$type": "text",
+          "$value": "VfL Wolfsburg"
         },
         "logo": {
-          "value": "wolfsburg",
-          "type": "text"
+          "$type": "text",
+          "$value": "wolfsburg"
         }
       },
       "eintrachtFrankfurt": {
         "primary": {
-          "value": "#e50000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#e50000"
         },
         "secondary": {
-          "value": "#000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000000"
         },
         "name": {
-          "value": "Eintracht Frankfurt",
-          "type": "text"
+          "$type": "text",
+          "$value": "Eintracht Frankfurt"
         },
         "logo": {
-          "value": "eintrachtFrankfurt",
-          "type": "text"
+          "$type": "text",
+          "$value": "eintrachtFrankfurt"
         }
       },
       "borussiaMönchengladbach": {
         "primary": {
-          "value": "#000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000000"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Borussia Mönchengladbach",
-          "type": "text"
+          "$type": "text",
+          "$value": "Borussia Mönchengladbach"
         },
         "logo": {
-          "value": "borussiaMönchengladbach",
-          "type": "text"
+          "$type": "text",
+          "$value": "borussiaMönchengladbach"
         }
       },
       "league": {
         "name": {
-          "value": "Bundesliga",
-          "type": "text"
+          "$type": "text",
+          "$value": "Bundesliga"
         },
         "icon": {
-          "value": "germany",
-          "type": "text"
+          "$type": "text",
+          "$value": "germany"
         },
         "country": {
-          "value": "Germany",
-          "type": "text"
+          "$type": "text",
+          "$value": "Germany"
         }
       }
     },
     "ligue1": {
       "parisSaintGermain": {
         "primary": {
-          "value": "#004170",
-          "type": "color"
+          "$type": "color",
+          "$value": "#004170"
         },
         "secondary": {
-          "value": "#da291c",
-          "type": "color"
+          "$type": "color",
+          "$value": "#da291c"
         },
         "name": {
-          "value": "Paris Saint-Germain (PSG)",
-          "type": "text"
+          "$type": "text",
+          "$value": "Paris Saint-Germain (PSG)"
         },
         "logo": {
-          "value": "parisSaintGermain",
-          "type": "text"
+          "$type": "text",
+          "$value": "parisSaintGermain"
         }
       },
       "olympiqueDeMarseille": {
         "primary": {
-          "value": "#009ee0",
-          "type": "color"
+          "$type": "color",
+          "$value": "#009ee0"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Olympique de Marseille",
-          "type": "text"
+          "$type": "text",
+          "$value": "Olympique de Marseille"
         },
         "logo": {
-          "value": "olympiqueDeMarseille",
-          "type": "text"
+          "$type": "text",
+          "$value": "olympiqueDeMarseille"
         }
       },
       "olympiqueLyonnais": {
         "primary": {
-          "value": "#da291c",
-          "type": "color"
+          "$type": "color",
+          "$value": "#da291c"
         },
         "secondary": {
-          "value": "#0055a4",
-          "type": "color"
+          "$type": "color",
+          "$value": "#0055a4"
         },
         "name": {
-          "value": "Olympique Lyonnais",
-          "type": "text"
+          "$type": "text",
+          "$value": "Olympique Lyonnais"
         },
         "logo": {
-          "value": "olympiqueLyonnais",
-          "type": "text"
+          "$type": "text",
+          "$value": "olympiqueLyonnais"
         }
       },
       "monaco": {
         "primary": {
-          "value": "#e32636",
-          "type": "color"
+          "$type": "color",
+          "$value": "#e32636"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "AS Monaco FC",
-          "type": "text"
+          "$type": "text",
+          "$value": "AS Monaco FC"
         },
         "logo": {
-          "value": "monaco",
-          "type": "text"
+          "$type": "text",
+          "$value": "monaco"
         }
       },
       "loscLille": {
         "primary": {
-          "value": "#d00027",
-          "type": "color"
+          "$type": "color",
+          "$value": "#d00027"
         },
         "secondary": {
-          "value": "#1d2041",
-          "type": "color"
+          "$type": "color",
+          "$value": "#1d2041"
         },
         "name": {
-          "value": "LOSC Lille",
-          "type": "text"
+          "$type": "text",
+          "$value": "LOSC Lille"
         },
         "logo": {
-          "value": "loscLille",
-          "type": "text"
+          "$type": "text",
+          "$value": "loscLille"
         }
       },
       "rcLens": {
         "primary": {
-          "value": "#e41e26",
-          "type": "color"
+          "$type": "color",
+          "$value": "#e41e26"
         },
         "secondary": {
-          "value": "#f7d417",
-          "type": "color"
+          "$type": "color",
+          "$value": "#f7d417"
         },
         "name": {
-          "value": "RC Lens",
-          "type": "text"
+          "$type": "text",
+          "$value": "RC Lens"
         },
         "logo": {
-          "value": "rcLens",
-          "type": "text"
+          "$type": "text",
+          "$value": "rcLens"
         }
       },
       "stadeRennais": {
         "primary": {
-          "value": "#e2001a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#e2001a"
         },
         "secondary": {
-          "value": "#000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000000"
         },
         "name": {
-          "value": "Stade Rennais FC",
-          "type": "text"
+          "$type": "text",
+          "$value": "Stade Rennais FC"
         },
         "logo": {
-          "value": "stadeRennais",
-          "type": "text"
+          "$type": "text",
+          "$value": "stadeRennais"
         }
       },
       "league": {
         "name": {
-          "value": "Ligue 1",
-          "type": "text"
+          "$type": "text",
+          "$value": "Ligue 1"
         },
         "icon": {
-          "value": "france",
-          "type": "text"
+          "$type": "text",
+          "$value": "france"
         },
         "country": {
-          "value": "France",
-          "type": "text"
+          "$type": "text",
+          "$value": "France"
         }
       }
     },
     "eredivisie": {
       "afcAjax": {
         "primary": {
-          "value": "#d2122e",
-          "type": "color"
+          "$type": "color",
+          "$value": "#d2122e"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "AFC Ajax",
-          "type": "text"
+          "$type": "text",
+          "$value": "AFC Ajax"
         },
         "logo": {
-          "value": "afcAjax",
-          "type": "text"
+          "$type": "text",
+          "$value": "afcAjax"
         }
       },
       "psvEindhoven": {
         "primary": {
-          "value": "#da1a32",
-          "type": "color"
+          "$type": "color",
+          "$value": "#da1a32"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "PSV Eindhoven",
-          "type": "text"
+          "$type": "text",
+          "$value": "PSV Eindhoven"
         },
         "logo": {
-          "value": "psvEindhoven",
-          "type": "text"
+          "$type": "text",
+          "$value": "psvEindhoven"
         }
       },
       "feyenoordRotterdam": {
         "primary": {
-          "value": "#e41b17",
-          "type": "color"
+          "$type": "color",
+          "$value": "#e41b17"
         },
         "secondary": {
-          "value": "#000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000000"
         },
         "name": {
-          "value": "Feyenoord Rotterdam",
-          "type": "text"
+          "$type": "text",
+          "$value": "Feyenoord Rotterdam"
         },
         "logo": {
-          "value": "feyenoordRotterdam",
-          "type": "text"
+          "$type": "text",
+          "$value": "feyenoordRotterdam"
         }
       },
       "azAlkmaar": {
         "primary": {
-          "value": "#da1a32",
-          "type": "color"
+          "$type": "color",
+          "$value": "#da1a32"
         },
         "secondary": {
-          "value": "#000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000000"
         },
         "name": {
-          "value": "AZ Alkmaar",
-          "type": "text"
+          "$type": "text",
+          "$value": "AZ Alkmaar"
         },
         "logo": {
-          "value": "azAlkmaar",
-          "type": "text"
+          "$type": "text",
+          "$value": "azAlkmaar"
         }
       },
       "fcUtrecht": {
         "primary": {
-          "value": "#ed1c24",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ed1c24"
         },
         "secondary": {
-          "value": "#005daa",
-          "type": "color"
+          "$type": "color",
+          "$value": "#005daa"
         },
         "name": {
-          "value": "FC Utrecht",
-          "type": "text"
+          "$type": "text",
+          "$value": "FC Utrecht"
         },
         "logo": {
-          "value": "fcUtrecht",
-          "type": "text"
+          "$type": "text",
+          "$value": "fcUtrecht"
         }
       },
       "fcTwente": {
         "primary": {
-          "value": "#da291c",
-          "type": "color"
+          "$type": "color",
+          "$value": "#da291c"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "FC Twente",
-          "type": "text"
+          "$type": "text",
+          "$value": "FC Twente"
         },
         "logo": {
-          "value": "fcTwente",
-          "type": "text"
+          "$type": "text",
+          "$value": "fcTwente"
         }
       },
       "scHeerenveen": {
         "primary": {
-          "value": "#1e4590",
-          "type": "color"
+          "$type": "color",
+          "$value": "#1e4590"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "SC Heerenveen",
-          "type": "text"
+          "$type": "text",
+          "$value": "SC Heerenveen"
         },
         "logo": {
-          "value": "scHeerenveen",
-          "type": "text"
+          "$type": "text",
+          "$value": "scHeerenveen"
         }
       },
       "league": {
         "name": {
-          "value": "Eredivisie",
-          "type": "text"
+          "$type": "text",
+          "$value": "Eredivisie"
         },
         "country": {
-          "value": "Netherlands",
-          "type": "text"
+          "$type": "text",
+          "$value": "Netherlands"
         },
         "icon": {
-          "value": "netherlands",
-          "type": "text"
+          "$type": "text",
+          "$value": "netherlands"
         }
       }
     },
     "primieraLiga": {
       "porto": {
         "primary": {
-          "value": "#0033a0",
-          "type": "color"
+          "$type": "color",
+          "$value": "#0033a0"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "FC Porto",
-          "type": "text"
+          "$type": "text",
+          "$value": "FC Porto"
         },
         "logo": {
-          "value": "porto",
-          "type": "text"
+          "$type": "text",
+          "$value": "porto"
         }
       },
       "benfica": {
         "primary": {
-          "value": "#da291c",
-          "type": "color"
+          "$type": "color",
+          "$value": "#da291c"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "SL Benfica",
-          "type": "text"
+          "$type": "text",
+          "$value": "SL Benfica"
         },
         "logo": {
-          "value": "benfica",
-          "type": "text"
+          "$type": "text",
+          "$value": "benfica"
         }
       },
       "sporting": {
         "primary": {
-          "value": "#009739",
-          "type": "color"
+          "$type": "color",
+          "$value": "#009739"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Sporting CP",
-          "type": "text"
+          "$type": "text",
+          "$value": "Sporting CP"
         },
         "logo": {
-          "value": "sporting",
-          "type": "text"
+          "$type": "text",
+          "$value": "sporting"
         }
       },
       "braga": {
         "primary": {
-          "value": "#e41e26",
-          "type": "color"
+          "$type": "color",
+          "$value": "#e41e26"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "SC Braga",
-          "type": "text"
+          "$type": "text",
+          "$value": "SC Braga"
         },
         "logo": {
-          "value": "braga",
-          "type": "text"
+          "$type": "text",
+          "$value": "braga"
         }
       },
       "vitoria": {
         "primary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "secondary": {
-          "value": "#000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000000"
         },
         "name": {
-          "value": "Vitória SC",
-          "type": "text"
+          "$type": "text",
+          "$value": "Vitória SC"
         },
         "logo": {
-          "value": "vitoria",
-          "type": "text"
+          "$type": "text",
+          "$value": "vitoria"
         }
       },
       "boavista": {
         "primary": {
-          "value": "#000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000000"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Boavista FC",
-          "type": "text"
+          "$type": "text",
+          "$value": "Boavista FC"
         },
         "logo": {
-          "value": "boavista",
-          "type": "text"
+          "$type": "text",
+          "$value": "boavista"
         }
       },
       "maritimoFunchal": {
         "primary": {
-          "value": "#007a33",
-          "type": "color"
+          "$type": "color",
+          "$value": "#007a33"
         },
         "secondary": {
-          "value": "#da291c",
-          "type": "color"
+          "$type": "color",
+          "$value": "#da291c"
         },
         "name": {
-          "value": "Marítimo Funchal",
-          "type": "text"
+          "$type": "text",
+          "$value": "Marítimo Funchal"
         },
         "logo": {
-          "value": "maritimoFunchal",
-          "type": "text"
+          "$type": "text",
+          "$value": "maritimoFunchal"
         }
       },
       "league": {
         "name": {
-          "value": "Primeira Liga",
-          "type": "text"
+          "$type": "text",
+          "$value": "Primeira Liga"
         },
         "icon": {
-          "value": "portugal",
-          "type": "text"
+          "$type": "text",
+          "$value": "portugal"
         },
         "country": {
-          "value": "Portugal",
-          "type": "text"
+          "$type": "text",
+          "$value": "Portugal"
         }
       }
     }
@@ -999,428 +999,428 @@
     "nba": {
       "lakers": {
         "primary": {
-          "value": "#552583",
-          "type": "color"
+          "$type": "color",
+          "$value": "#552583"
         },
         "secondary": {
-          "value": "#fdb927",
-          "type": "color"
+          "$type": "color",
+          "$value": "#fdb927"
         },
         "name": {
-          "value": "Los Angeles Lakers",
-          "type": "text"
+          "$type": "text",
+          "$value": "Los Angeles Lakers"
         }
       },
       "warriors": {
         "primary": {
-          "value": "#1d428a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#1d428a"
         },
         "secondary": {
-          "value": "#ffc72c",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffc72c"
         },
         "name": {
-          "value": "Golden State Warriors",
-          "type": "text"
+          "$type": "text",
+          "$value": "Golden State Warriors"
         }
       },
       "chicagoBulls": {
         "primary": {
-          "value": "#ce1141",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ce1141"
         },
         "secondary": {
-          "value": "#000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000000"
         },
         "name": {
-          "value": "Chicago Bulls",
-          "type": "text"
+          "$type": "text",
+          "$value": "Chicago Bulls"
         }
       },
       "bostonCeltics": {
         "primary": {
-          "value": "#007a33",
-          "type": "color"
+          "$type": "color",
+          "$value": "#007a33"
         },
         "secondary": {
-          "value": "#ba9653",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ba9653"
         },
         "name": {
-          "value": "Boston Celtics",
-          "type": "text"
+          "$type": "text",
+          "$value": "Boston Celtics"
         }
       },
       "maimiHeat": {
         "primary": {
-          "value": "#98002e",
-          "type": "color"
+          "$type": "color",
+          "$value": "#98002e"
         },
         "secondary": {
-          "value": "#f9a01b",
-          "type": "color"
+          "$type": "color",
+          "$value": "#f9a01b"
         },
         "name": {
-          "value": "Miami Heat",
-          "type": "text"
+          "$type": "text",
+          "$value": "Miami Heat"
         }
       },
       "brooklynNets": {
         "primary": {
-          "value": "#000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000000"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Brooklyn Nets",
-          "type": "text"
+          "$type": "text",
+          "$value": "Brooklyn Nets"
         }
       },
       "newYorkKnicks": {
         "primary": {
-          "value": "#006bb6",
-          "type": "color"
+          "$type": "color",
+          "$value": "#006bb6"
         },
         "secondary": {
-          "value": "#f58426",
-          "type": "color"
+          "$type": "color",
+          "$value": "#f58426"
         },
         "name": {
-          "value": "New York Knicks",
-          "type": "text"
+          "$type": "text",
+          "$value": "New York Knicks"
         }
       },
       "denverNuggets": {
         "primary": {
-          "value": "#0e2240",
-          "type": "color"
+          "$type": "color",
+          "$value": "#0e2240"
         },
         "secondary": {
-          "value": "#fec524",
-          "type": "color"
+          "$type": "color",
+          "$value": "#fec524"
         },
         "name": {
-          "value": "Denver Nuggets",
-          "type": "text"
+          "$type": "text",
+          "$value": "Denver Nuggets"
         }
       }
     },
     "euroLeague": {
       "realMadridBaloncesto": {
         "primary": {
-          "value": "#febe10",
-          "type": "color"
+          "$type": "color",
+          "$value": "#febe10"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Real Madrid Baloncesto",
-          "type": "text"
+          "$type": "text",
+          "$value": "Real Madrid Baloncesto"
         }
       },
       "barcelonaBasket": {
         "primary": {
-          "value": "#febe10",
-          "type": "color"
+          "$type": "color",
+          "$value": "#febe10"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "FC Barcelona Basket",
-          "type": "text"
+          "$type": "text",
+          "$value": "FC Barcelona Basket"
         }
       },
       "olympiacos": {
         "primary": {
-          "value": "#e41e26",
-          "type": "color"
+          "$type": "color",
+          "$value": "#e41e26"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Olympiacos BC",
-          "type": "text"
+          "$type": "text",
+          "$value": "Olympiacos BC"
         }
       },
       "panathinaikos": {
         "primary": {
-          "value": "#00843d",
-          "type": "color"
+          "$type": "color",
+          "$value": "#00843d"
         },
         "secondary": {
-          "value": "#f58220",
-          "type": "color"
+          "$type": "color",
+          "$value": "#f58220"
         },
         "name": {
-          "value": "Panathinaikos BC",
-          "type": "text"
+          "$type": "text",
+          "$value": "Panathinaikos BC"
         }
       },
       "fenerbahçe": {
         "primary": {
-          "value": "#ffcd00",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffcd00"
         },
         "secondary": {
-          "value": "#1d428a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#1d428a"
         },
         "name": {
-          "value": "Fenerbahçe Beko",
-          "type": "text"
+          "$type": "text",
+          "$value": "Fenerbahçe Beko"
         }
       },
       "anadolu": {
         "primary": {
-          "value": "#005bac",
-          "type": "color"
+          "$type": "color",
+          "$value": "#005bac"
         },
         "secondary": {
-          "value": "#e41e26",
-          "type": "color"
+          "$type": "color",
+          "$value": "#e41e26"
         },
         "name": {
-          "value": "Anadolu Efes",
-          "type": "text"
+          "$type": "text",
+          "$value": "Anadolu Efes"
         }
       },
       "cska": {
         "primary": {
-          "value": "#e41e26",
-          "type": "color"
+          "$type": "color",
+          "$value": "#e41e26"
         },
         "secondary": {
-          "value": "#1d428a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#1d428a"
         },
         "name": {
-          "value": "CSKA Moscow",
-          "type": "text"
+          "$type": "text",
+          "$value": "CSKA Moscow"
         }
       },
       "maccabi": {
         "primary": {
-          "value": "#ffd700",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffd700"
         },
         "secondary": {
-          "value": "#0057b8",
-          "type": "color"
+          "$type": "color",
+          "$value": "#0057b8"
         },
         "name": {
-          "value": "Maccabi Tel Aviv",
-          "type": "text"
+          "$type": "text",
+          "$value": "Maccabi Tel Aviv"
         }
       }
     },
     "ligaAcb": {
       "valenciaBasket": {
         "primary": {
-          "value": "#f58220",
-          "type": "color"
+          "$type": "color",
+          "$value": "#f58220"
         },
         "secondary": {
-          "value": "#1d428a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#1d428a"
         },
         "name": {
-          "value": "FC Barcelona Basket",
-          "type": "text"
+          "$type": "text",
+          "$value": "FC Barcelona Basket"
         }
       },
       "viktoriaGasteiz": {
         "primary": {
-          "value": "#ba0c2f",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ba0c2f"
         },
         "secondary": {
-          "value": "#1d428a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#1d428a"
         },
         "name": {
-          "value": "Baskonia Vitoria-Gasteiz",
-          "type": "text"
+          "$type": "text",
+          "$value": "Baskonia Vitoria-Gasteiz"
         }
       },
       "unicajaMálaga": {
         "primary": {
-          "value": "#007a33",
-          "type": "color"
+          "$type": "color",
+          "$value": "#007a33"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Unicaja Málaga",
-          "type": "text"
+          "$type": "text",
+          "$value": "Unicaja Málaga"
         }
       },
       "granCanaria": {
         "primary": {
-          "value": "#f6be00",
-          "type": "color"
+          "$type": "color",
+          "$value": "#f6be00"
         },
         "secondary": {
-          "value": "#1d428a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#1d428a"
         },
         "name": {
-          "value": "Gran Canaria",
-          "type": "text"
+          "$type": "text",
+          "$value": "Gran Canaria"
         }
       },
       "joventutBadalona": {
         "primary": {
-          "value": "#006341",
-          "type": "color"
+          "$type": "color",
+          "$value": "#006341"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Joventut Badalona",
-          "type": "text"
+          "$type": "text",
+          "$value": "Joventut Badalona"
         }
       },
       "ucamMurcia": {
         "primary": {
-          "value": "#ba0c2f",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ba0c2f"
         },
         "secondary": {
-          "value": "#ffd700",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffd700"
         },
         "name": {
-          "value": "UCAM Murcia",
-          "type": "text"
+          "$type": "text",
+          "$value": "UCAM Murcia"
         }
       }
     },
     "legaBasketSerieA": {
       "olimpiaMilano": {
         "primary": {
-          "value": "#c8102e",
-          "type": "color"
+          "$type": "color",
+          "$value": "#c8102e"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Olimpia Milano",
-          "type": "text"
+          "$type": "text",
+          "$value": "Olimpia Milano"
         }
       },
       "virtusBologna": {
         "primary": {
-          "value": "#000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000000"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Virtus Bologna",
-          "type": "text"
+          "$type": "text",
+          "$value": "Virtus Bologna"
         }
       },
       "reyerVenezia": {
         "primary": {
-          "value": "#862633",
-          "type": "color"
+          "$type": "color",
+          "$value": "#862633"
         },
         "secondary": {
-          "value": "#ffd700",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffd700"
         },
         "name": {
-          "value": "Reyer Venezia",
-          "type": "text"
+          "$type": "text",
+          "$value": "Reyer Venezia"
         }
       },
       "dinamoSassari": {
         "primary": {
-          "value": "#0057b8",
-          "type": "color"
+          "$type": "color",
+          "$value": "#0057b8"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Dinamo Sassari",
-          "type": "text"
+          "$type": "text",
+          "$value": "Dinamo Sassari"
         }
       },
       "pallacanestroBrescia": {
         "primary": {
-          "value": "#003da5",
-          "type": "color"
+          "$type": "color",
+          "$value": "#003da5"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Pallacanestro Brescia",
-          "type": "text"
+          "$type": "text",
+          "$value": "Pallacanestro Brescia"
         }
       },
       "trentoDolomiti": {
         "primary": {
-          "value": "#000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000000"
         },
         "secondary": {
-          "value": "#c0c0c0",
-          "type": "color"
+          "$type": "color",
+          "$value": "#c0c0c0"
         },
         "name": {
-          "value": "Trento Dolomiti Energia",
-          "type": "text"
+          "$type": "text",
+          "$value": "Trento Dolomiti Energia"
         }
       },
       "pallacanestroVarese": {
         "primary": {
-          "value": "#e41e26",
-          "type": "color"
+          "$type": "color",
+          "$value": "#e41e26"
         },
         "secondary": {
-          "value": "#ffffff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffffff"
         },
         "name": {
-          "value": "Pallacanestro Varese",
-          "type": "text"
+          "$type": "text",
+          "$value": "Pallacanestro Varese"
         }
       },
       "derthonaBasket": {
         "primary": {
-          "value": "#ff6f00",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ff6f00"
         },
         "secondary": {
-          "value": "#000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000000"
         },
         "name": {
-          "value": "Derthona Basket",
-          "type": "text"
+          "$type": "text",
+          "$value": "Derthona Basket"
         }
       }
     }
@@ -1429,121 +1429,121 @@
     "indianPremierLeague": {
       "chennaiSuperKings": {
         "primary": {
-          "value": "#fee123",
-          "type": "color"
+          "$type": "color",
+          "$value": "#fee123"
         },
         "secondary": {
-          "value": "#1b427c",
-          "type": "color"
+          "$type": "color",
+          "$value": "#1b427c"
         },
         "name": {
-          "value": "Chennai Super Kings",
-          "type": "text"
+          "$type": "text",
+          "$value": "Chennai Super Kings"
         }
       },
       "mumbaiIndians": {
         "primary": {
-          "value": "#045093",
-          "type": "color"
+          "$type": "color",
+          "$value": "#045093"
         },
         "secondary": {
-          "value": "#ffd700",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ffd700"
         },
         "name": {
-          "value": "Mumbai Indians",
-          "type": "text"
+          "$type": "text",
+          "$value": "Mumbai Indians"
         }
       },
       "kolkataKnightRiders": {
         "primary": {
-          "value": "#3d195b",
-          "type": "color"
+          "$type": "color",
+          "$value": "#3d195b"
         },
         "secondary": {
-          "value": "#d1af46",
-          "type": "color"
+          "$type": "color",
+          "$value": "#d1af46"
         },
         "name": {
-          "value": "Kolkata Knight Riders",
-          "type": "text"
+          "$type": "text",
+          "$value": "Kolkata Knight Riders"
         }
       },
       "royalChallengers": {
         "primary": {
-          "value": "#da1818",
-          "type": "color"
+          "$type": "color",
+          "$value": "#da1818"
         },
         "secondary": {
-          "value": "#000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000000"
         },
         "name": {
-          "value": "Royal Challengers Bengaluru",
-          "type": "text"
+          "$type": "text",
+          "$value": "Royal Challengers Bengaluru"
         }
       },
       "rajasthanRoyals": {
         "primary": {
-          "value": "#ea1a8e",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ea1a8e"
         },
         "secondary": {
-          "value": "#254aa5",
-          "type": "color"
+          "$type": "color",
+          "$value": "#254aa5"
         },
         "name": {
-          "value": "Rajasthan Royals",
-          "type": "text"
+          "$type": "text",
+          "$value": "Rajasthan Royals"
         }
       },
       "delhiCapitals": {
         "primary": {
-          "value": "#17449b",
-          "type": "color"
+          "$type": "color",
+          "$value": "#17449b"
         },
         "secondary": {
-          "value": "#da291c",
-          "type": "color"
+          "$type": "color",
+          "$value": "#da291c"
         },
         "name": {
-          "value": "Delhi Capitals",
-          "type": "text"
+          "$type": "text",
+          "$value": "Delhi Capitals"
         }
       },
       "sunrisesHyderabad": {
         "primary": {
-          "value": "#ff822a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ff822a"
         },
         "secondary": {
-          "value": "#000000",
-          "type": "color"
+          "$type": "color",
+          "$value": "#000000"
         },
         "name": {
-          "value": "Sunrisers Hyderabad",
-          "type": "text"
+          "$type": "text",
+          "$value": "Sunrisers Hyderabad"
         }
       },
       "lucknowSuperGiants": {
         "primary": {
-          "value": "#00adef",
-          "type": "color"
+          "$type": "color",
+          "$value": "#00adef"
         },
         "secondary": {
-          "value": "#f58220",
-          "type": "color"
+          "$type": "color",
+          "$value": "#f58220"
         },
         "name": {
-          "value": "Lucknow Super Giants",
-          "type": "text"
+          "$type": "text",
+          "$value": "Lucknow Super Giants"
         }
       }
     },
     "theHundred": {
       "f": {
-        "value": "#ffffff",
-        "type": "color"
+        "$type": "color",
+        "$value": "#ffffff"
       }
     }
   },
@@ -1551,316 +1551,316 @@
     "atpMensSingle": {
       "novakDjokovic": {
         "name": {
-          "value": "N. Djokovic",
-          "type": "text"
+          "$type": "text",
+          "$value": "N. Djokovic"
         },
         "country": {
-          "value": "serbia",
-          "type": "text"
+          "$type": "text",
+          "$value": "serbia"
         }
       },
       "carlosAlcaraz": {
         "name": {
-          "value": "C. Alcaraz",
-          "type": "text"
+          "$type": "text",
+          "$value": "C. Alcaraz"
         },
         "country": {
-          "value": "spain",
-          "type": "text"
+          "$type": "text",
+          "$value": "spain"
         }
       },
       "jannikSinner": {
         "name": {
-          "value": "J. Sinner",
-          "type": "text"
+          "$type": "text",
+          "$value": "J. Sinner"
         },
         "country": {
-          "value": "italy",
-          "type": "text"
+          "$type": "text",
+          "$value": "italy"
         }
       },
       "daniilMedvedev": {
         "name": {
-          "value": "Daniil Medvedev",
-          "type": "text"
+          "$type": "text",
+          "$value": "Daniil Medvedev"
         },
         "country": {
-          "value": "russia",
-          "type": "text"
+          "$type": "text",
+          "$value": "russia"
         }
       },
       "alexanderZverev": {
         "name": {
-          "value": "A. Zverev",
-          "type": "text"
+          "$type": "text",
+          "$value": "A. Zverev"
         },
         "country": {
-          "value": "germany",
-          "type": "text"
+          "$type": "text",
+          "$value": "germany"
         }
       },
       "casperRuud": {
         "name": {
-          "value": "Casper Ruud",
-          "type": "text"
+          "$type": "text",
+          "$value": "Casper Ruud"
         },
         "country": {
-          "value": "norway",
-          "type": "text"
+          "$type": "text",
+          "$value": "norway"
         }
       },
       "stefanosTsitsipas": {
         "name": {
-          "value": "Stefanos Tsitsipas",
-          "type": "text"
+          "$type": "text",
+          "$value": "Stefanos Tsitsipas"
         },
         "country": {
-          "value": "greece",
-          "type": "text"
+          "$type": "text",
+          "$value": "greece"
         }
       },
       "holgerRune": {
         "name": {
-          "value": "H. Rune",
-          "type": "text"
+          "$type": "text",
+          "$value": "H. Rune"
         },
         "country": {
-          "value": "denmark",
-          "type": "text"
+          "$type": "text",
+          "$value": "denmark"
         }
       },
       "hubertHurkacz": {
         "name": {
-          "value": "H. Hurkacz",
-          "type": "text"
+          "$type": "text",
+          "$value": "H. Hurkacz"
         },
         "country": {
-          "value": "poland",
-          "type": "text"
+          "$type": "text",
+          "$value": "poland"
         }
       },
       "taylorFritz": {
         "name": {
-          "value": "T. Fritz",
-          "type": "text"
+          "$type": "text",
+          "$value": "T. Fritz"
         },
         "country": {
-          "value": "usa",
-          "type": "text"
+          "$type": "text",
+          "$value": "usa"
         }
       }
     },
     "wtaWomensSingles": {
       "igaŚwiątek": {
         "name": {
-          "value": "I. Świątek",
-          "type": "text"
+          "$type": "text",
+          "$value": "I. Świątek"
         },
         "country": {
-          "value": "poland",
-          "type": "text"
+          "$type": "text",
+          "$value": "poland"
         }
       },
       "arynaSabalenka": {
         "name": {
-          "value": "A. Sabalenka",
-          "type": "text"
+          "$type": "text",
+          "$value": "A. Sabalenka"
         },
         "country": {
-          "value": "belarus",
-          "type": "text"
+          "$type": "text",
+          "$value": "belarus"
         }
       },
       "cocoGauff": {
         "name": {
-          "value": "C. Gauff",
-          "type": "text"
+          "$type": "text",
+          "$value": "C. Gauff"
         },
         "country": {
-          "value": "usa",
-          "type": "text"
+          "$type": "text",
+          "$value": "usa"
         }
       },
       "elenaRybakina": {
         "name": {
-          "value": "E. Rybakina",
-          "type": "text"
+          "$type": "text",
+          "$value": "E. Rybakina"
         },
         "country": {
-          "value": "kazakhstan",
-          "type": "text"
+          "$type": "text",
+          "$value": "kazakhstan"
         }
       },
       "onsJabeur": {
         "name": {
-          "value": "O. Jabeur",
-          "type": "text"
+          "$type": "text",
+          "$value": "O. Jabeur"
         },
         "country": {
-          "value": "tunisia",
-          "type": "text"
+          "$type": "text",
+          "$value": "tunisia"
         }
       },
       "jessicaPegula": {
         "name": {
-          "value": "J. Pegula",
-          "type": "text"
+          "$type": "text",
+          "$value": "J. Pegula"
         },
         "country": {
-          "value": "usa",
-          "type": "text"
+          "$type": "text",
+          "$value": "usa"
         }
       },
       "mariaSakkari": {
         "name": {
-          "value": "M. Sakkari",
-          "type": "text"
+          "$type": "text",
+          "$value": "M. Sakkari"
         },
         "country": {
-          "value": "greece",
-          "type": "text"
+          "$type": "text",
+          "$value": "greece"
         }
       },
       "marketaVondroušová": {
         "name": {
-          "value": "M. Vondroušová",
-          "type": "text"
+          "$type": "text",
+          "$value": "M. Vondroušová"
         },
         "country": {
-          "value": "czechia",
-          "type": "text"
+          "$type": "text",
+          "$value": "czechia"
         }
       },
       "karolinaMuchová": {
         "name": {
-          "value": "K. Muchová",
-          "type": "text"
+          "$type": "text",
+          "$value": "K. Muchová"
         },
         "country": {
-          "value": "czechia",
-          "type": "text"
+          "$type": "text",
+          "$value": "czechia"
         }
       },
       "emmaRaducanu": {
         "name": {
-          "value": "E. Raducanu",
-          "type": "text"
+          "$type": "text",
+          "$value": "E. Raducanu"
         },
         "country": {
-          "value": "uk",
-          "type": "text"
+          "$type": "text",
+          "$value": "uk"
         }
       }
     }
   },
   "header": {
     "Live": {
-      "value": "Live",
-      "type": "text"
+      "$type": "text",
+      "$value": "Live"
     },
     "Soon": {
-      "value": "Soon",
-      "type": "text"
+      "$type": "text",
+      "$value": "Soon"
     },
     "Tonight": {
-      "value": "Tonight",
-      "type": "text"
+      "$type": "text",
+      "$value": "Tonight"
     },
     "Date": {
-      "value": "Date",
-      "type": "text"
+      "$type": "text",
+      "$value": "Date"
     }
   },
   "sports": {
     "Soccer": {
-      "value": "Soccer",
-      "type": "text"
+      "$type": "text",
+      "$value": "Soccer"
     },
     "Basketball": {
-      "value": "Basketball",
-      "type": "text"
+      "$type": "text",
+      "$value": "Basketball"
     },
     "Tennis": {
-      "value": "Tennis",
-      "type": "text"
+      "$type": "text",
+      "$value": "Tennis"
     },
     "Cricket": {
-      "value": "Cricket",
-      "type": "text"
+      "$type": "text",
+      "$value": "Cricket"
     },
     "Hockey": {
-      "value": "Hockey",
-      "type": "text"
+      "$type": "text",
+      "$value": "Hockey"
     },
     "Volleyball": {
-      "value": "Volleyball",
-      "type": "text"
+      "$type": "text",
+      "$value": "Volleyball"
     },
     "Baseball": {
-      "value": "Baseball",
-      "type": "text"
+      "$type": "text",
+      "$value": "Baseball"
     }
   },
   "markets": {
     "Home": {
-      "value": "1",
-      "type": "text"
+      "$type": "text",
+      "$value": "1"
     },
     "Draw": {
-      "value": "X",
-      "type": "text"
+      "$type": "text",
+      "$value": "X"
     },
     "Away": {
-      "value": "2",
-      "type": "text"
+      "$type": "text",
+      "$value": "2"
     }
   },
   "dates": {
     "Today": {
-      "value": "Today",
-      "type": "text"
+      "$type": "text",
+      "$value": "Today"
     },
     "Tomorrow": {
-      "value": "Tomorrow",
-      "type": "text"
+      "$type": "text",
+      "$value": "Tomorrow"
     }
   },
   "matchDetail": {
     "Match detail": {
-      "value": "Match detail",
-      "type": "text"
+      "$type": "text",
+      "$value": "Match detail"
     },
     "1st Half": {
-      "value": "1st Half",
-      "type": "text"
+      "$type": "text",
+      "$value": "1st Half"
     },
     "Match": {
-      "value": "Match",
-      "type": "text"
+      "$type": "text",
+      "$value": "Match"
     },
     "Half 1": {
-      "value": "1st Half",
-      "type": "text"
+      "$type": "text",
+      "$value": "1st Half"
     },
     "Half 2": {
-      "value": "2nd Half",
-      "type": "text"
+      "$type": "text",
+      "$value": "2nd Half"
     },
     "All": {
-      "value": "All",
-      "type": "text"
+      "$type": "text",
+      "$value": "All"
     },
     "Winner": {
-      "value": "Winner",
-      "type": "text"
+      "$type": "text",
+      "$value": "Winner"
     },
     "Total": {
-      "value": "Total",
-      "type": "text"
+      "$type": "text",
+      "$value": "Total"
     },
     "Draw no bet": {
-      "value": "Draw no bet",
-      "type": "text"
+      "$type": "text",
+      "$value": "Draw no bet"
     }
   }
 }
