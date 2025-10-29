@@ -1,7 +1,7 @@
 {
   "bg": {
     "primary": {
-      "value": "{slate.600}",
+      "value": "{slate.950}",
       "type": "color",
       "description": "bg color for primary (aliased to b&w/white)"
     },
@@ -293,7 +293,7 @@
       "description": "text color for error-secondary-hover (aliased to red/500)"
     },
     "success-primary": {
-      "value": "{green.600}",
+      "value": "{green.500}",
       "type": "color",
       "description": "text color for success-primary (aliased to green/600)"
     },

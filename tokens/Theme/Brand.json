@@ -203,22 +203,22 @@
   },
   "text": {
     "primary": {
-      "value": "{slate.900}",
+      "value": "{slate.50}",
       "type": "color",
       "description": "text color for primary (aliased to slate/900)"
     },
     "secondary": {
-      "value": "{slate.600}",
+      "value": "#ffffffe0",
       "type": "color",
       "description": "text color for secondary (aliased to slate/600)"
     },
     "tertiary": {
-      "value": "{slate.500}",
+      "value": "#ffffffa3",
       "type": "color",
       "description": "text color for tertiary (aliased to slate/500)"
     },
     "primary-hover": {
-      "value": "{slate.800}",
+      "value": "{slate.200}",
       "type": "color",
       "description": "text color for primary-hover (aliased to slate/800)"
     },
@@ -228,7 +228,7 @@
       "description": "text color for secondary-hover (aliased to slate/700)"
     },
     "tertiary-hover": {
-      "value": "{slate.600}",
+      "value": "#ffffff7a",
       "type": "color",
       "description": "text color for tertiary-hover (aliased to slate/600)"
     },
@@ -238,7 +238,7 @@
       "description": "text color for disabled (aliased to slate/400)"
     },
     "disabled-alt": {
-      "value": "{slate.300}",
+      "value": "{slate.600}",
       "type": "color",
       "description": "text color for disabled-alt (aliased to slate/300)"
     },
@@ -248,7 +248,7 @@
       "description": "text color for placeholder (aliased to slate/400)"
     },
     "invert": {
-      "value": "{b&w.white}",
+      "value": "{950}",
       "type": "color",
       "description": "text color for on-dark-color (aliased to b&w/white)"
     },
@@ -375,12 +375,12 @@
   },
   "icon": {
     "primary": {
-      "value": "{slate.900}",
+      "value": "{gray.50}",
       "type": "color",
       "description": "icon color for primary (aliased to slate/900)"
     },
     "secondary": {
-      "value": "{slate.600}",
+      "value": "#ffffff7a",
       "type": "color",
       "description": "icon color for secondary (aliased to slate/600)"
     },
@@ -420,7 +420,7 @@
       "description": "icon color for placeholder (aliased to slate/400)"
     },
     "invert": {
-      "value": "{b&w.white}",
+      "value": "{900}",
       "type": "color",
       "description": "icon color for on-dark-color (aliased to b&w/white)"
     },
@@ -551,7 +551,7 @@
   },
   "border": {
     "primary": {
-      "value": "{slate.300}",
+      "value": "#ffffff52",
       "type": "color",
       "description": "border color for primary (aliased to slate/300)"
     },

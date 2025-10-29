@@ -1,7 +1,7 @@
 {
   "bg": {
     "primary": {
-      "value": "{slate.300}",
+      "value": "{slate.100}",
       "type": "color",
       "description": "bg color for primary (aliased to b&w/white)"
     },
@@ -11,7 +11,7 @@
       "description": "bg color for secondary (aliased to slate/50)"
     },
     "tertiary": {
-      "value": "{slate.100}",
+      "value": "{slate.300}",
       "type": "color",
       "description": "bg color for tertiary (aliased to slate/100)"
     },
@@ -21,7 +21,7 @@
       "description": "bg color for quartiary (aliased to slate/300)"
     },
     "primary-hover": {
-      "value": "{slate.400}",
+      "value": "{slate.800}",
       "type": "color",
       "description": "bg color for primary-hover (aliased to slate/50)"
     },
@@ -186,7 +186,7 @@
       "description": "bg color for overlay-alpha-primary (aliased to alpha/light/200)"
     },
     "overlay-alpha-secondary": {
-      "value": "{alpha.light.500}",
+      "value": "{alpha.light.100}",
       "type": "color",
       "description": "bg color for overlay-alpha-secondary (aliased to alpha/light/500)"
     },
@@ -293,7 +293,7 @@
       "description": "text color for error-secondary-hover (aliased to red/500)"
     },
     "success-primary": {
-      "value": "{green.600}",
+      "value": "{green.500}",
       "type": "color",
       "description": "text color for success-primary (aliased to green/600)"
     },
@@ -571,12 +571,12 @@
       "description": "border color for primary-solid (aliased to slate/900)"
     },
     "disabled": {
-      "value": "{slate.300}",
+      "value": "{slate.500}",
       "type": "color",
       "description": "border color for disabled (aliased to slate/300)"
     },
     "disabled-alt": {
-      "value": "{slate.200}",
+      "value": "{slate.400}",
       "type": "color",
       "description": "border color for disabled-alt (aliased to slate/200)"
     },
