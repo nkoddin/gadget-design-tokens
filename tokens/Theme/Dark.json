@@ -2,7 +2,7 @@
   "bg": {
     "primary": {
       "$type": "color",
-      "$value": "{slate.600}",
+      "$value": "{slate.950}",
       "$description": "bg color for primary (aliased to b&w/white)"
     },
     "secondary": {
@@ -294,7 +294,7 @@
     },
     "success-primary": {
       "$type": "color",
-      "$value": "{green.600}",
+      "$value": "{green.500}",
       "$description": "text color for success-primary (aliased to green/600)"
     },
     "success-secondary": {

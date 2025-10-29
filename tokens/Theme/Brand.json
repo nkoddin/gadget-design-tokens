@@ -204,22 +204,22 @@
   "text": {
     "primary": {
       "$type": "color",
-      "$value": "{slate.900}",
+      "$value": "{slate.50}",
       "$description": "text color for primary (aliased to slate/900)"
     },
     "secondary": {
       "$type": "color",
-      "$value": "{slate.600}",
+      "$value": "#ffffffe0",
       "$description": "text color for secondary (aliased to slate/600)"
     },
     "tertiary": {
       "$type": "color",
-      "$value": "{slate.500}",
+      "$value": "#ffffffa3",
       "$description": "text color for tertiary (aliased to slate/500)"
     },
     "primary-hover": {
       "$type": "color",
-      "$value": "{slate.800}",
+      "$value": "{slate.200}",
       "$description": "text color for primary-hover (aliased to slate/800)"
     },
     "secondary-hover": {
@@ -229,7 +229,7 @@
     },
     "tertiary-hover": {
       "$type": "color",
-      "$value": "{slate.600}",
+      "$value": "#ffffff7a",
       "$description": "text color for tertiary-hover (aliased to slate/600)"
     },
     "disabled": {
@@ -239,7 +239,7 @@
     },
     "disabled-alt": {
       "$type": "color",
-      "$value": "{slate.300}",
+      "$value": "{slate.600}",
       "$description": "text color for disabled-alt (aliased to slate/300)"
     },
     "placeholder": {
@@ -249,7 +249,7 @@
     },
     "invert": {
       "$type": "color",
-      "$value": "{b&w.white}",
+      "$value": "{950}",
       "$description": "text color for on-dark-color (aliased to b&w/white)"
     },
     "accent-primary": {
@@ -376,12 +376,12 @@
   "icon": {
     "primary": {
       "$type": "color",
-      "$value": "{slate.900}",
+      "$value": "{gray.50}",
       "$description": "icon color for primary (aliased to slate/900)"
     },
     "secondary": {
       "$type": "color",
-      "$value": "{slate.600}",
+      "$value": "#ffffff7a",
       "$description": "icon color for secondary (aliased to slate/600)"
     },
     "tertiary": {
@@ -421,7 +421,7 @@
     },
     "invert": {
       "$type": "color",
-      "$value": "{b&w.white}",
+      "$value": "{900}",
       "$description": "icon color for on-dark-color (aliased to b&w/white)"
     },
     "accent-primary": {
@@ -552,7 +552,7 @@
   "border": {
     "primary": {
       "$type": "color",
-      "$value": "{slate.300}",
+      "$value": "#ffffff52",
       "$description": "border color for primary (aliased to slate/300)"
     },
     "secondary": {

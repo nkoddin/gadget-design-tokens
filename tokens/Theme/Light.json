@@ -2,7 +2,7 @@
   "bg": {
     "primary": {
       "$type": "color",
-      "$value": "{slate.300}",
+      "$value": "{slate.100}",
       "$description": "bg color for primary (aliased to b&w/white)"
     },
     "secondary": {
@@ -12,7 +12,7 @@
     },
     "tertiary": {
       "$type": "color",
-      "$value": "{slate.100}",
+      "$value": "{slate.300}",
       "$description": "bg color for tertiary (aliased to slate/100)"
     },
     "quartiary": {
@@ -22,7 +22,7 @@
     },
     "primary-hover": {
       "$type": "color",
-      "$value": "{slate.400}",
+      "$value": "{slate.800}",
       "$description": "bg color for primary-hover (aliased to slate/50)"
     },
     "secondary-hover": {
@@ -187,7 +187,7 @@
     },
     "overlay-alpha-secondary": {
       "$type": "color",
-      "$value": "{alpha.light.500}",
+      "$value": "{alpha.light.100}",
       "$description": "bg color for overlay-alpha-secondary (aliased to alpha/light/500)"
     },
     "overlay-alpha-white-primary": {
@@ -294,7 +294,7 @@
     },
     "success-primary": {
       "$type": "color",
-      "$value": "{green.600}",
+      "$value": "{green.500}",
       "$description": "text color for success-primary (aliased to green/600)"
     },
     "success-secondary": {
@@ -572,12 +572,12 @@
     },
     "disabled": {
       "$type": "color",
-      "$value": "{slate.300}",
+      "$value": "{slate.500}",
       "$description": "border color for disabled (aliased to slate/300)"
     },
     "disabled-alt": {
       "$type": "color",
-      "$value": "{slate.200}",
+      "$value": "{slate.400}",
       "$description": "border color for disabled-alt (aliased to slate/200)"
     },
     "accent-primary": {
