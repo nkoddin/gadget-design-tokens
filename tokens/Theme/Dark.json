@@ -21,17 +21,17 @@
       "description": "bg color for quartiary (aliased to slate/300)"
     },
     "primary-hover": {
-      "value": "{slate.50}",
+      "value": "#000417",
       "type": "color",
       "description": "bg color for primary-hover (aliased to slate/50)"
     },
     "secondary-hover": {
-      "value": "{slate.100}",
+      "value": "#131f32",
       "type": "color",
       "description": "bg color for secondary-hover (aliased to slate/100)"
     },
     "tertiary-hover": {
-      "value": "{slate.200}",
+      "value": "{slate.700}",
       "type": "color",
       "description": "bg color for tertiary-hover (aliased to slate/200)"
     },
@@ -61,22 +61,22 @@
       "description": "bg color for disabled-alt (aliased to slate/100)"
     },
     "accent-primary": {
-      "value": "{purple.50}",
+      "value": "{600}",
       "type": "color",
       "description": "bg color for accent-primary (aliased to purple/50)"
     },
     "accent-primary-hover": {
-      "value": "{purple.100}",
+      "value": "{500}",
       "type": "color",
       "description": "bg color for accent-primary-hover (aliased to purple/100)"
     },
     "accent-solid": {
-      "value": "{400}",
+      "value": "{950}",
       "type": "color",
       "description": "bg color for accent-solid (aliased to purple/500)"
     },
     "accent-solid-hover": {
-      "value": "{500}",
+      "value": "{900}",
       "type": "color",
       "description": "bg color for accent-solid-hover (aliased to purple/600)"
     },
@@ -91,7 +91,7 @@
       "description": "bg color for error-primary-hover (aliased to red/100)"
     },
     "error-secondary": {
-      "value": "{red.600}",
+      "value": "{red.950}",
       "type": "color",
       "description": "bg color for error-secondary (aliased to red/600)"
     },
@@ -111,27 +111,27 @@
       "description": "bg color for success-primary-hover (aliased to green/200)"
     },
     "success-secondary": {
-      "value": "{green.600}",
+      "value": "{green.950}",
       "type": "color",
       "description": "bg color for success-secondary (aliased to green/600)"
     },
     "success-secondary-hover": {
-      "value": "{green.700}",
+      "value": "{green.900}",
       "type": "color",
       "description": "bg color for success-secondary-hover (aliased to green/700)"
     },
     "warning-primary": {
-      "value": "{orange.100}",
+      "value": "{orange.600}",
       "type": "color",
       "description": "bg color for warning-primary (aliased to orange/100)"
     },
     "warning-primary-hover": {
-      "value": "{orange.200}",
+      "value": "{orange.500}",
       "type": "color",
       "description": "bg color for warning-primary-hover (aliased to orange/200)"
     },
     "warning-secondary": {
-      "value": "{orange.600}",
+      "value": "{orange.950}",
       "type": "color",
       "description": "bg color for warning-secondary (aliased to orange/600)"
     },
@@ -199,6 +199,20 @@
       "value": "{alpha.dark.500}",
       "type": "color",
       "description": "bg color for overlay-alpha-white-secondary (aliased to alpha/dark/500)"
+    },
+    "invert": {
+      "value": "{slate.50}",
+      "type": "color",
+      "description": "bg color for black-solid (aliased to slate/900)"
+    },
+    "invert-hover": {
+      "value": "{slate.200}",
+      "type": "color",
+      "description": "bg color for black-solid-hover (aliased to slate/800)"
+    },
+    "Color": {
+      "value": "#ffffff",
+      "type": "color"
     }
   },
   "text": {
@@ -218,17 +232,17 @@
       "description": "text color for tertiary (aliased to slate/500)"
     },
     "primary-hover": {
-      "value": "{slate.200}",
+      "value": "{slate.50}",
       "type": "color",
       "description": "text color for primary-hover (aliased to slate/800)"
     },
     "secondary-hover": {
-      "value": "{slate.400}",
+      "value": "{slate.200}",
       "type": "color",
       "description": "text color for secondary-hover (aliased to slate/700)"
     },
     "tertiary-hover": {
-      "value": "{slate.500}",
+      "value": "{slate.300}",
       "type": "color",
       "description": "text color for tertiary-hover (aliased to slate/600)"
     },
@@ -253,17 +267,17 @@
       "description": "text color for on-dark-color (aliased to b&w/white)"
     },
     "accent-primary": {
-      "value": "{purple.500}",
+      "value": "{purple.400}",
       "type": "color",
       "description": "text color for accent-primary (aliased to purple/500)"
     },
     "accent-secondary": {
-      "value": "{purple.300}",
+      "value": "{purple.600}",
       "type": "color",
       "description": "text color for accent-secondary (aliased to purple/300)"
     },
     "accent-primary-hover": {
-      "value": "{purple.600}",
+      "value": "{purple.300}",
       "type": "color",
       "description": "text color for accent-primary-hover (aliased to purple/600)"
     },
@@ -371,6 +385,10 @@
       "value": "{green.600}",
       "type": "color",
       "description": "text color for offer-secondary-hover (aliased to green/600)"
+    },
+    "on-primary": {
+      "value": "{bw.white}",
+      "type": "color"
     }
   },
   "icon": {
@@ -390,17 +408,17 @@
       "description": "icon color for tertiary (aliased to slate/400)"
     },
     "primary-hover": {
-      "value": "{slate.200}",
+      "value": "{slate.50}",
       "type": "color",
       "description": "icon color for primary-hover (aliased to slate/800)"
     },
     "secondary-hover": {
-      "value": "{slate.400}",
+      "value": "{slate.200}",
       "type": "color",
       "description": "icon color for secondary-hover (aliased to slate/700)"
     },
     "tertiary-hover": {
-      "value": "{slate.500}",
+      "value": "{slate.400}",
       "type": "color",
       "description": "icon color for tertiary-hover (aliased to slate/600)"
     },
@@ -425,27 +443,27 @@
       "description": "icon color for on-dark-color (aliased to b&w/white)"
     },
     "accent-primary": {
-      "value": "{purple.500}",
+      "value": "{400}",
       "type": "color",
       "description": "icon color for accent-primary (aliased to purple/500)"
     },
     "accent-secondary": {
-      "value": "{purple.300}",
+      "value": "{600}",
       "type": "color",
       "description": "icon color for accent-secondary (aliased to purple/300)"
     },
     "accent-primary-hover": {
-      "value": "{purple.600}",
+      "value": "{300}",
       "type": "color",
       "description": "icon color for accent-primary-hover (aliased to purple/600)"
     },
     "accent-secondary-hover": {
-      "value": "{purple.400}",
+      "value": "{400}",
       "type": "color",
       "description": "icon color for accent-secondary-hover (aliased to purple/400)"
     },
     "error-primary": {
-      "value": "{red.600}",
+      "value": "{red.500}",
       "type": "color",
       "description": "icon color for error-primary (aliased to red/600)"
     },
@@ -455,7 +473,7 @@
       "description": "icon color for error-secondary (aliased to red/300)"
     },
     "error-primary-hover": {
-      "value": "{red.600}",
+      "value": "{red.400}",
       "type": "color",
       "description": "icon color for error-primary-hover (aliased to red/600)"
     },
@@ -465,7 +483,7 @@
       "description": "icon color for error-secondary-hover (aliased to red/500)"
     },
     "success-primary": {
-      "value": "{green.600}",
+      "value": "{green.500}",
       "type": "color",
       "description": "icon color for success-primary (aliased to green/600)"
     },
@@ -485,7 +503,7 @@
       "description": "icon color for success-secondary-hover (aliased to green/300)"
     },
     "warning-primary": {
-      "value": "{orange.600}",
+      "value": "{orange.500}",
       "type": "color",
       "description": "icon color for warning-primary (aliased to orange/600)"
     },
@@ -547,6 +565,10 @@
     "live": {
       "value": "{red.600}",
       "type": "color"
+    },
+    "on-primary": {
+      "value": "{bw.white}",
+      "type": "color"
     }
   },
   "border": {
@@ -581,12 +603,12 @@
       "description": "border color for disabled-alt (aliased to slate/200)"
     },
     "accent-primary": {
-      "value": "{purple.500}",
+      "value": "{400}",
       "type": "color",
       "description": "border color for accent-primary (aliased to purple/500)"
     },
     "accent-secondary": {
-      "value": "{purple.100}",
+      "value": "{500}",
       "type": "color",
       "description": "border color for accent-secondary (aliased to purple/100)"
     },

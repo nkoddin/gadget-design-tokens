@@ -410,6 +410,42 @@
       "description": "Letter spacing for Micro"
     }
   },
+  "Thin": {
+    "value": "100",
+    "type": "fontWeights"
+  },
+  "ExtraLight": {
+    "value": "200",
+    "type": "fontWeights"
+  },
+  "Light": {
+    "value": "300",
+    "type": "fontWeights"
+  },
+  "Regular": {
+    "value": "400",
+    "type": "fontWeights"
+  },
+  "Medium": {
+    "value": "500",
+    "type": "fontWeights"
+  },
+  "Semibold": {
+    "value": "600",
+    "type": "fontWeights"
+  },
+  "Bold": {
+    "value": "700",
+    "type": "fontWeights"
+  },
+  "ExtraBold": {
+    "value": "800",
+    "type": "fontWeights"
+  },
+  "Black": {
+    "value": "900",
+    "type": "fontWeights"
+  },
   "Weights": {
     "Thin": {
       "value": 100,

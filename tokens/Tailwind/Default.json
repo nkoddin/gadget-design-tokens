@@ -1273,57 +1273,57 @@
   "alpha": {
     "light": {
       "50": {
-        "value": "#1a1a1a0f",
+        "value": "#0306160f",
         "type": "color",
         "description": "Generated from Tailwind Color System"
       },
       "100": {
-        "value": "#1a1a1a17",
+        "value": "#03061617",
         "type": "color",
         "description": "Generated from Tailwind Color System"
       },
       "200": {
-        "value": "#1a1a1a33",
+        "value": "#03061633",
         "type": "color",
         "description": "Generated from Tailwind Color System"
       },
       "300": {
-        "value": "#1a1a1a47",
+        "value": "#03061647",
         "type": "color",
         "description": "Generated from Tailwind Color System"
       },
       "400": {
-        "value": "#1a1a1a5c",
+        "value": "#0306165c",
         "type": "color",
         "description": "Generated from Tailwind Color System"
       },
       "500": {
-        "value": "#1a1a1a7a",
+        "value": "#0306167a",
         "type": "color",
         "description": "Generated from Tailwind Color System"
       },
       "600": {
-        "value": "#1a1a1a99",
+        "value": "#03061699",
         "type": "color",
         "description": "Generated from Tailwind Color System"
       },
       "700": {
-        "value": "#1a1a1ab3",
+        "value": "#030616b3",
         "type": "color",
         "description": "Generated from Tailwind Color System"
       },
       "800": {
-        "value": "#1a1a1abf",
+        "value": "#030616bf",
         "type": "color",
         "description": "Generated from Tailwind Color System"
       },
       "900": {
-        "value": "#1a1a1acc",
+        "value": "#030616cc",
         "type": "color",
         "description": "Generated from Tailwind Color System"
       },
       "1000": {
-        "value": "#1a1a1a",
+        "value": "#030616",
         "type": "color",
         "description": "Generated from Tailwind Color System"
       },
@@ -1394,6 +1394,23 @@
         "type": "color",
         "description": "Generated from Tailwind Color System"
       }
+    }
+  },
+  "bw": {
+    "white": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Generated from Tailwind Color System"
+    },
+    "black": {
+      "value": "#000000",
+      "type": "color",
+      "description": "Generated from Tailwind Color System"
+    },
+    "transparent": {
+      "value": "#00000000",
+      "type": "color",
+      "description": "Generated from Tailwind Color System"
     }
   }
 }

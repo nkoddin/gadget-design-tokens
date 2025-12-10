@@ -425,9 +425,7 @@
     "id": "theme-light",
     "name": "Light",
     "group": "Theme",
-    "selectedTokenSets": {
-      "Theme/Light": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "bg.primary": "26dc5c3568dbe727657368a4377dab847fe9d008",
@@ -565,9 +563,7 @@
     "id": "theme-brand",
     "name": "Brand",
     "group": "Theme",
-    "selectedTokenSets": {
-      "Theme/Brand": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "bg.primary": "26dc5c3568dbe727657368a4377dab847fe9d008",
@@ -801,20 +797,20 @@
     "name": "Soft",
     "group": "Radius",
     "selectedTokenSets": {
-      "Radius/Soft": "enabled"
+      "Radius/Default": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
-      "none": "e07c6a1f4904adf0f04e5960b095e72a121320f7",
-      "sm": "c073606c64cebe439f9435d8b587852e9fcdf438",
-      "md": "1cc0fa4a8865a2335ee87fc4683b6ef675d865ee",
-      "lg": "cb082aac603c3c918f9a832ecfa4f346cb9dd06d",
-      "xl": "c214e95e3b6a20df554f3fda7396c95a30304ee5",
-      "2xl": "0df829ac808c96e860ec01572b5b1bd6a1761bbf",
-      "3xl": "35daa232a7018966ef0c14b125ebc2e80138718c",
-      "4xl": "c636500320e61f9a103efc4a18cfae4939e4f394",
-      "5xl": "b816007ae4d1fe200b96de17961bf65783b9deda",
-      "full": "e74c338f8c99822efa00fab1e1c54d6439ab2ec4"
+      "none": "f42800e9d24dc0c01b534d4d8c247af7b979ca73",
+      "sm": "d0b1bef6b16fde19ea19697f09567bc3dfa1f38d",
+      "md": "f8ceca6e18cacf7e53f9c1901d6496ad669b7736",
+      "lg": "197b473372a2535944145d2651caeb3075df8ede",
+      "xl": "61567f71ade331d69463bf97469884ffc22f2f5a",
+      "2xl": "8d4967d9377a39a6e76b565b58cf54e56dcb205c",
+      "3xl": "cdd56920658e15170ac49c203cbb5388b2162a16",
+      "4xl": "bfdd054bb22a6c7805cacd0884d05952d2fca8f2",
+      "5xl": "f82f640f83df885857e106185faf4ed60ca2b62c",
+      "full": "89e244039c5eeba68dd0ee6be05daa042420a042"
     },
     "$figmaModeId": "7:1",
     "$figmaCollectionId": "VariableCollectionId:7:135"
@@ -823,9 +819,7 @@
     "id": "radius-sharp",
     "name": "Sharp",
     "group": "Radius",
-    "selectedTokenSets": {
-      "Radius/Sharp": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "none": "e07c6a1f4904adf0f04e5960b095e72a121320f7",
@@ -895,26 +889,24 @@
     "$figmaCollectionId": "VariableCollectionId:7:162"
   },
   {
-    "id": "brand-mode 1",
-    "name": "Mode 1",
+    "id": "brand-heimdall",
+    "name": "Heimdall",
     "group": "Brand",
-    "selectedTokenSets": {
-      "Brand/Mode 1": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
-      "50": "7849cfb7d271606c7c9a3857a51c29b26c0fae50",
-      "100": "e4a3f3358ce3e4c2167e3a4fb5ed8a5131fc788d",
-      "150": "182bd0f7125b6aaea62b334e1d3eff732b09285d",
-      "200": "1ba2b44b6cbc99edee122e8a1e27ee08efa1f627",
-      "300": "5b94cabd14ea9406bc58f0cfba15d6eee1bfe1e6",
-      "400": "2d4e833a147f92d9148678c04b0e78cdb3d4c655",
-      "500": "dac03861fe59f0c55395d052fa91f2aeabfcf16c",
-      "600": "46e229345d76861dcc1c6087acec1d61cfd3d62e",
-      "700": "93c3dfd36c0ea9fd41747b1b34dfd1e8cebe9d80",
-      "800": "fed6db633c21af10dbf287707180a7382f07ea49",
-      "900": "acd94df08bd2ea8b7e4fef91f6510beac9af37a6",
-      "950": "c3bd7e62307fb1ad3a2faac633d62113bbfa35e3"
+      "50": "718bf73d81bd39e1fd631d082e0d590f107dd438",
+      "100": "3f698bc4c422fcab6a29a14b7ad39dd14f9be3f7",
+      "150": "caeb3e88c14834323ae1a4354d718cc27d189870",
+      "200": "c6027bdaedadb8de43838fe4725cd50d4a9e2516",
+      "300": "f13858ecb35df1401c550cd845364632a32d96ad",
+      "400": "65105078de39c51d061e9b5c3e7133cbc0877b09",
+      "500": "b0aac3782b78efc533d9fab8e32b712d55f3c035",
+      "600": "d5060a7f8f31d577ca698bcccc05344dd55f82fd",
+      "700": "1abbce0150be6b7af361a1c6aacec51469a3579d",
+      "800": "d091935b9ac5ddcbfcb13914be6211355cfb9e1b",
+      "900": "e3219026fc6d6f3fece4f5eb0d28be46c735d216",
+      "950": "6e76de24aa56f2a67221a424c4f1d6a06778f9a6"
     },
     "$figmaModeId": "7:5",
     "$figmaCollectionId": "VariableCollectionId:7:205"
@@ -923,9 +915,7 @@
     "id": "icons-broken",
     "name": "Broken",
     "group": "Icons",
-    "selectedTokenSets": {
-      "Icons/Broken": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "styles": "39a799b7b3dc03fa7ec441acd84f8a2fcc0b07ad"
@@ -937,9 +927,7 @@
     "id": "icons-bulk",
     "name": "Bulk",
     "group": "Icons",
-    "selectedTokenSets": {
-      "Icons/Bulk": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "styles": "39a799b7b3dc03fa7ec441acd84f8a2fcc0b07ad"
@@ -951,9 +939,7 @@
     "id": "icons-two tone",
     "name": "Two Tone",
     "group": "Icons",
-    "selectedTokenSets": {
-      "Icons/Two Tone": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "styles": "39a799b7b3dc03fa7ec441acd84f8a2fcc0b07ad"
@@ -965,9 +951,7 @@
     "id": "icons-light",
     "name": "Light",
     "group": "Icons",
-    "selectedTokenSets": {
-      "Icons/Light": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "styles": "39a799b7b3dc03fa7ec441acd84f8a2fcc0b07ad"
@@ -979,9 +963,7 @@
     "id": "teams-bayern munich",
     "name": "Bayern Munich",
     "group": "Teams",
-    "selectedTokenSets": {
-      "Teams/Bayern Munich": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "Football.teamPrimaryColor": "e8b34ac8a3cee3ad3c448c5e162830fa447a7533",
@@ -995,9 +977,7 @@
     "id": "teams-werder bremen",
     "name": "Werder Bremen",
     "group": "Teams",
-    "selectedTokenSets": {
-      "Teams/Werder Bremen": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "Football.teamPrimaryColor": "e8b34ac8a3cee3ad3c448c5e162830fa447a7533",
@@ -1011,9 +991,7 @@
     "id": "teams-mode",
     "name": "Mode",
     "group": "Teams",
-    "selectedTokenSets": {
-      "Teams/Mode": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "Football.teamPrimaryColor": "e8b34ac8a3cee3ad3c448c5e162830fa447a7533",
@@ -1027,9 +1005,7 @@
     "id": "teams-mode 2",
     "name": "Mode 2",
     "group": "Teams",
-    "selectedTokenSets": {
-      "Teams/Mode 2": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "Football.teamPrimaryColor": "e8b34ac8a3cee3ad3c448c5e162830fa447a7533",
@@ -1043,9 +1019,7 @@
     "id": "radius-square",
     "name": "Square",
     "group": "Radius",
-    "selectedTokenSets": {
-      "Radius/Square": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "none": "e07c6a1f4904adf0f04e5960b095e72a121320f7",
@@ -1066,9 +1040,7 @@
     "id": "radius-smooth",
     "name": "Smooth",
     "group": "Radius",
-    "selectedTokenSets": {
-      "Radius/Smooth": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "none": "e07c6a1f4904adf0f04e5960b095e72a121320f7",
@@ -1089,9 +1061,7 @@
     "id": "content-en",
     "name": "EN",
     "group": "Content",
-    "selectedTokenSets": {
-      "Content/EN": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "soccer.laLiga.barcelona.name": "640921e64eb5c27aa329201bd54eec6db55d07f6",
@@ -1499,9 +1469,7 @@
     "id": "content-es",
     "name": "ES",
     "group": "Content",
-    "selectedTokenSets": {
-      "Content/ES": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "soccer.laLiga.barcelona.name": "640921e64eb5c27aa329201bd54eec6db55d07f6",
@@ -1909,9 +1877,7 @@
     "id": "content-pt",
     "name": "PT",
     "group": "Content",
-    "selectedTokenSets": {
-      "Content/PT": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "soccer.laLiga.barcelona.name": "640921e64eb5c27aa329201bd54eec6db55d07f6",
@@ -2319,9 +2285,7 @@
     "id": "content-ru",
     "name": "RU",
     "group": "Content",
-    "selectedTokenSets": {
-      "Content/RU": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "soccer.laLiga.barcelona.name": "640921e64eb5c27aa329201bd54eec6db55d07f6",
@@ -2729,9 +2693,7 @@
     "id": "emblem-logo",
     "name": "Logo",
     "group": "Emblem",
-    "selectedTokenSets": {
-      "Emblem/Logo": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "Emblem": "720a461af6f8e35714feb8456b5d90b7146d94b0"
@@ -2743,9 +2705,7 @@
     "id": "emblem-jersey",
     "name": "Jersey",
     "group": "Emblem",
-    "selectedTokenSets": {
-      "Emblem/Jersey": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "Emblem": "720a461af6f8e35714feb8456b5d90b7146d94b0"
@@ -2757,9 +2717,7 @@
     "id": "emblem-flag",
     "name": "Flag",
     "group": "Emblem",
-    "selectedTokenSets": {
-      "Emblem/Flag": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "Emblem": "720a461af6f8e35714feb8456b5d90b7146d94b0"
@@ -2771,9 +2729,7 @@
     "id": "layout-default",
     "name": "Default",
     "group": "Layout",
-    "selectedTokenSets": {
-      "Layout/Default": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "Layout": "aa014b1bbdcb0bedf69f606cfba5b918e188745b"
@@ -2785,9 +2741,7 @@
     "id": "layout-sasha",
     "name": "Sasha",
     "group": "Layout",
-    "selectedTokenSets": {
-      "Layout/Sasha": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "Layout": "aa014b1bbdcb0bedf69f606cfba5b918e188745b"
@@ -2799,9 +2753,7 @@
     "id": "layout-dunja",
     "name": "Dunja",
     "group": "Layout",
-    "selectedTokenSets": {
-      "Layout/Dunja": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "Layout": "aa014b1bbdcb0bedf69f606cfba5b918e188745b"
@@ -2813,9 +2765,7 @@
     "id": "layout-andrea",
     "name": "Andrea",
     "group": "Layout",
-    "selectedTokenSets": {
-      "Layout/Andrea": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "Layout": "aa014b1bbdcb0bedf69f606cfba5b918e188745b"
@@ -2841,14 +2791,187 @@
     "id": "font-saira",
     "name": "Saira",
     "group": "Font",
-    "selectedTokenSets": {
-      "Font/Saira": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "Font": "3669a94dc590c0a66b3ef3f1a2781fec014e6d2f"
     },
     "$figmaModeId": "381:9",
     "$figmaCollectionId": "VariableCollectionId:381:608814"
+  },
+  {
+    "id": "theme-tipsport",
+    "name": "Tipsport",
+    "group": "Theme",
+    "selectedTokenSets": {},
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {
+      "bg.primary": "4f2bcad892b2fd2737db87cd0b3347728a03ce6c",
+      "bg.secondary": "4f46c0bbe292a712a27c6ad8b5ce14252bea522f",
+      "bg.tertiary": "81ed48165f783939906e4a9019a4408cdd649ff8",
+      "bg.quartiary": "cab9647dd05706003a2f2a10824ece2882faaadf",
+      "bg.primary-hover": "425ee2138bf6d96318324ba45d1b926f81d6a216",
+      "bg.secondary-hover": "205ae903cac19aed36661cdb812379d8a1b5b965",
+      "bg.tertiary-hover": "7b2c4d7539b84a69ff2fecfcfd186f979d8bcde4",
+      "bg.quartiary-hover": "9d15d7be7982c596420590b7e288cc5875147818",
+      "bg.invert": "9025a3ffc9ec2a31c06c30e80d6558b79f04828d",
+      "bg.invert-hover": "aecd38984cdc128c77d07a14f6f02c986f6c837b",
+      "bg.disabled": "55a3262334b32e30138fed4134ccae58b85f1628",
+      "bg.disabled-alt": "63a340b566aa26c8cf784a8e1b6358f2a9eac379",
+      "bg.accent-primary": "30208218c979e3f12e1b9bf48f4df1358488c73b",
+      "bg.accent-primary-hover": "ccf4d75e84a303733d5aa164e84c2a70650f84fa",
+      "bg.accent-solid": "6bdf8d6d519e069287b80a4fe15410c3717be2fc",
+      "bg.accent-solid-hover": "ed2ba30eaa3fbf1ebe81f21a2c9429c6a2bf4618",
+      "bg.error-primary": "19c85e8e1a406f00c46427b5c952bac9d075774d",
+      "bg.error-primary-hover": "44ff3996b0898b563528f94d9f409e400fbef5d9",
+      "bg.error-secondary": "39c22300fd6460ca5376b4d5b6509a6c8a90f774",
+      "bg.error-secondary-hover": "e5bf9ead3afc18a0ae6980157088c42bf2febad5",
+      "bg.success-primary": "f49f5b2e6a610665754bf8e6d576037f8b146864",
+      "bg.success-primary-hover": "bb3c18b9f8a63b31b614fba43426454a461d856d",
+      "bg.success-secondary": "49081d84f7f79a135371435b2323e4b5fa608219",
+      "bg.success-secondary-hover": "ff6a598eb4428bef16e8bebe0883005cf780d79f",
+      "bg.warning-primary": "2704ea1670ae22fc576b308b71a137fe61c25798",
+      "bg.warning-primary-hover": "3c583d86a9b0f703370da5e6a7d544a9d239879f",
+      "bg.warning-secondary": "473d64a97cc1b2562d08f656d430a9ed77648688",
+      "bg.warning-secondary-hover": "44229444e74634e59fb59aa8b2f72789609459d2",
+      "bg.info-primary": "de0d39b537fa555910e0be21cd9a968dd6c70f0e",
+      "bg.info-primary-hover": "3a7ab1bf19040a452845c4c3dc3dcf7278445fd9",
+      "bg.info-secondary": "e5104ff0d88429d8263d4b8017a184bc5943d782",
+      "bg.info-secondary-hover": "45c3fbc43a19e1791cd86002fb56635b9c29c917",
+      "bg.offer-primary": "0d70bc2edd173f1069e962448dccdf90f6adc59e",
+      "bg.offer-primary-hover": "1930795614962a4160e8bf943d58861c97dcb573",
+      "bg.offer-secondary": "9807be03cc525118e577a292a90156f4769e678e",
+      "bg.offer-secondary-hover": "56a8a83d42a53fb708bd7c890688929ba33f9f6c",
+      "bg.overlay-alpha-primary": "9e7ec012a1b49de176420afc87ffb7b68f11be65",
+      "bg.overlay-alpha-secondary": "c423dcf3cf78a5865c33aca0b3507d4948e8e15a",
+      "bg.overlay-alpha-white-primary": "9f130c0a1bfeb8aeeaeeee324cb6144931c94dfc",
+      "bg.overlay-alpha-white-secondary": "2ff5db516c3e487d9666d410ff7f4aa70ce13406",
+      "text.primary": "b209dea68eac7f9e809cda61e8126a87ad7ffd4c",
+      "text.secondary": "93f8cdc61c84394c11c01f4fea4db068a30c8fa8",
+      "text.tertiary": "8abdb6a8b3375df3895b85c6f6d8543dcaad878b",
+      "text.primary-hover": "8cabe095ff363227e898410a27c57b8ba1747d90",
+      "text.secondary-hover": "dffbe89b71bd299c1fdab3c5d88f00c579745354",
+      "text.tertiary-hover": "7624487afb84720c0e7fa1c1cc39b24cceaaacf6",
+      "text.disabled": "784fe9781a3b86987b0fc31db577d398a8aabece",
+      "text.disabled-alt": "6de91f88431ea39b40624a99c9956ba4ca375a42",
+      "text.placeholder": "8c773bf69629338c7f3a446f71759facdc5bd128",
+      "text.invert": "bdcad3cc788d0821a40d1c2b504c56bf13889806",
+      "text.accent-primary": "773bf218bb0d6accc7bc84edf1663535514f19bd",
+      "text.accent-secondary": "a01d2270e41531935b991b6b650103cbd276ef35",
+      "text.accent-primary-hover": "d3e8dcc561a72973c567f1033efe33f1ca412996",
+      "text.accent-secondary-hover": "b6de9a133b6f69dd58a552a4906fb93e93c732d1",
+      "text.error-primary": "0d60d79938c27400c4180ba011980023c0fa2c12",
+      "text.error-secondary": "37dbcfb74e135acc6d745b6a8c863a0e614cfa58",
+      "text.error-primary-hover": "99f220b4f29c17b4f4c7ca501dc36f95630c42e2",
+      "text.error-secondary-hover": "ef3f9145d70701d8fcb2b685238ca22513d4f712",
+      "text.success-primary": "6c72516963eae8bd2a531dd62f4b3f6a64c5fe5d",
+      "text.success-secondary": "ee633cd0cb2c3aa6975324e19e95b0036d1c6832",
+      "text.success-primary-hover": "d4bad87902b899f4995f746fd21f58f7d2c396c8",
+      "text.success-secondary-hover": "0c68920c37760503fc726b499761412e82075d85",
+      "text.warning-primary": "dfce3d9701a2534da644b9e66cb3b2ee1d9ac1c4",
+      "text.warning-secondary": "e7feeb1c6bfc45134fbca5c67e8f4133196da5a6",
+      "text.warning-primary-hover": "78cf2a5a422c3307974a70f24478ae6abdcc8102",
+      "text.warning-secondary-hover": "71cbd7789f38f3864116f59813abe9013c936917",
+      "text.info-primary": "1878118eb301058b6e54fd42d3b7aed8ad16a88d",
+      "text.info-secondary": "483cb47afb1bf510f905f387eb51aa1d1367b956",
+      "text.info-primary-hover": "58420e68a77de5cd961067570942c96feb9cf83f",
+      "text.info-secondary-hover": "9bb561d0cd6c9089da76308f3b74316df29ef31e",
+      "text.offer-primary": "0023bec295ab847173e6c0b0a9e167bbe49c6763",
+      "text.offer-secondary": "88b4c6fad58de45a11375cdfc3c3ee2a235dfc7c",
+      "text.offer-primary-hover": "efed6ca93938e165b81c1c10fa9d5c0cee358a19",
+      "text.offer-secondary-hover": "cf3cadbf526609d67b83d9d8af2bb87b1ceff0d3",
+      "icon.primary": "bdeb0040934752dca4d5e9c26a54e031940dbabf",
+      "icon.secondary": "4582773a7b87cdf8e024f04d3e739d4c9af85d35",
+      "icon.tertiary": "8c62bdaa348ab51fd8b136166f4e310b7b7dc835",
+      "icon.primary-hover": "6526f447ebb67bd390a5ac90f25d2443546e1667",
+      "icon.secondary-hover": "03caad846a9e04b3d5407daf3dcbf63d79c20b6d",
+      "icon.tertiary-hover": "7e7834f77fc80b166247c6878c86c1694e74b613",
+      "icon.disabled": "1f84854c7d62d7567da0ff9ca3688db75732705c",
+      "icon.disabled-alt": "a99a5e488bc3306fcef677a51e19413c668ee6ad",
+      "icon.placeholder": "766ecd32527e0e54505d1048d5633a54b04edcf0",
+      "icon.invert": "f46146d676e7a463ce9d31299bcfec62579ed03a",
+      "icon.accent-primary": "c6904bc8580b4e0b18891edc7bdcee4017753766",
+      "icon.accent-secondary": "f69ce099b7a4796a7ca4d220638b2be624982926",
+      "icon.accent-primary-hover": "7d2f8b00d5b00210563bf19f0b67f903a22c803e",
+      "icon.accent-secondary-hover": "665e20abc5eeed5af27455d51ea166c706e9d0ed",
+      "icon.error-primary": "4884bfc9c85200c104325bbb2a770b96ff23b01b",
+      "icon.error-secondary": "f49912338b9632cb1fcc61c61bb474cdfbb69d4b",
+      "icon.error-primary-hover": "b53169ae92b6d0d048ffdbeabb88fc8a8738cee2",
+      "icon.error-secondary-hover": "8528ba7283606138aef17d9f37ba064dac30cf0d",
+      "icon.success-primary": "ff0998d9f4ce160f57c900db5e3aa0215bd606ff",
+      "icon.success-secondary": "3532db4b66b2d2aa81541b77b4edbc74f2c24c56",
+      "icon.success-primary-hover": "b5cb0db7e7c3c4865de8298e5ddf1eff0bbf5c86",
+      "icon.success-secondary-hover": "9f35a0fe8eba5f0e8a4df2220aa41f151fc1c9cc",
+      "icon.warning-primary": "bcd93aacce8c38a89d4f5ed192bf5d89f7d52b55",
+      "icon.warning-secondary": "f50669321390d23377db39389b55c4a172f85610",
+      "icon.warning-primary-hover": "7a5ec2fbf3a2a9398b50272a308d8137ee513cd6",
+      "icon.warning-secondary-hover": "2f1abb8fa852a542fcc4e0bf67da96424ccd87b6",
+      "icon.info-primary": "14cc00957f8500e2496dc063bb338b5d44008d2e",
+      "icon.info-secondary": "e236491cf9a0fd1fbf65e253dcaeac948ea46e36",
+      "icon.info-primary-hover": "66169fce0f629df3eb07c05a4e7c29b10054d1fa",
+      "icon.info-secondary-hover": "9d01c4424e2f9854eab8dcb3ee4a95f9271162a0",
+      "icon.offer-primary": "21722ccea05367df9f59be69797adb962eb5f5c6",
+      "icon.offer-secondary": "f1ed1b489d407ba4b158d21a96624f01b8489bcf",
+      "icon.offer-primary-hover": "67e32f772c131cdeadb905812ad08d8bdee3ccf0",
+      "icon.offer-secondary-hover": "c990891d4d474104317ed6001ccec25889ab6867",
+      "border.primary": "814a274e7d5614045dbb82bd482312db97d4d2f3",
+      "border.secondary": "940d1caf33821bb45053dafe3ea9d29e933944dc",
+      "border.tertiary": "58e3ae0aae1ac87909c8774528d48ac21e3d140f",
+      "border.primary-solid": "25b5862e19a65f1d69339038f5d55a2721435295",
+      "border.disabled": "158aeff5d1b0d0eee1861656deef08a87d9e75f7",
+      "border.disabled-alt": "e7cc8de3345c74673f3e8e29402ae3f5e024bbc6",
+      "border.accent-primary": "4bbd6ea8ad4969ff1ed30ba38f57c76712508b54",
+      "border.accent-secondary": "5c4ec13b5e88f17f125558bdcfdf9a439a56a206",
+      "border.error-primary": "1e5268fecfd2a821db2617250290f0fb871f3f9c",
+      "border.error-secondary": "7620f5c7fa6872aca7507bd554c71de1eabb2723",
+      "border.success-primary": "782bafe80f0a17eafcc300d1f81b111c2f19ad63",
+      "border.success-secondary": "7afb01230ead893199c20e5304895f41a33d80b7",
+      "border.warning-primary": "c4c7ea2d699cbb6c2cf58a339315a2b4efe6ea8d",
+      "border.warning-secondary": "a0ee17d2ed33289d8642f72da31652ca910efe68",
+      "border.info-primary": "6ca81fc75dd6962b4d8254f062c5bc33c4ff90e4",
+      "border.info-secondary": "832b0e83700aadc748b18114cce6e61554c8f3ae",
+      "border.offer-primary": "d5e14ef6139ce956c74eb99ff405db1de377f3ff",
+      "border.offer-secondary": "f1595175aa17c83d97e697047b6f04cd3355c2e6",
+      "icon.live": "46ff74c78510cdb8b416d024eff50a304c7b5f7c"
+    },
+    "$figmaModeId": "426:0",
+    "$figmaCollectionId": "VariableCollectionId:1:272"
+  },
+  {
+    "id": "brand-default",
+    "name": "Default",
+    "group": "Brand",
+    "selectedTokenSets": {
+      "Brand/Default": "enabled"
+    },
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {
+      "50": "718bf73d81bd39e1fd631d082e0d590f107dd438",
+      "100": "3f698bc4c422fcab6a29a14b7ad39dd14f9be3f7",
+      "150": "caeb3e88c14834323ae1a4354d718cc27d189870",
+      "200": "c6027bdaedadb8de43838fe4725cd50d4a9e2516",
+      "300": "f13858ecb35df1401c550cd845364632a32d96ad",
+      "400": "65105078de39c51d061e9b5c3e7133cbc0877b09",
+      "500": "b0aac3782b78efc533d9fab8e32b712d55f3c035",
+      "600": "d5060a7f8f31d577ca698bcccc05344dd55f82fd",
+      "700": "1abbce0150be6b7af361a1c6aacec51469a3579d",
+      "800": "d091935b9ac5ddcbfcb13914be6211355cfb9e1b",
+      "900": "e3219026fc6d6f3fece4f5eb0d28be46c735d216",
+      "950": "6e76de24aa56f2a67221a424c4f1d6a06778f9a6"
+    },
+    "$figmaModeId": "415:0",
+    "$figmaCollectionId": "VariableCollectionId:7:205"
+  },
+  {
+    "id": "brand1-mode 1",
+    "name": "Mode 1",
+    "group": "Brand1",
+    "selectedTokenSets": {},
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {
+      "Primarybrand": "83b2a67a197f06bb053cc68351afc1fcb85b93a5"
+    },
+    "$figmaModeId": "415:2",
+    "$figmaCollectionId": "VariableCollectionId:415:264930"
   }
 ]
