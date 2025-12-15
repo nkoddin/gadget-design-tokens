@@ -14,18 +14,18 @@
         "description": "Font family for Title/Title-1"
       },
       "fontSize": {
-        "value": 64,
-        "type": "number",
+        "value": "4rem",
+        "type": "dimension",
         "description": "Font size for Title/Title-1"
       },
       "lineHeight": {
-        "value": 70,
-        "type": "number",
+        "value": "4.375rem",
+        "type": "dimension",
         "description": "Line height for Title/Title-1"
       },
       "letterSpacing": {
-        "value": -0.8,
-        "type": "number",
+        "value": "-0.05rem",
+        "type": "dimension",
         "description": "Letter spacing for Title/Title-1"
       }
     },
@@ -36,18 +36,18 @@
         "description": "Font family for Title/Title-2"
       },
       "fontSize": {
-        "value": 40,
-        "type": "number",
+        "value": "2.5rem",
+        "type": "dimension",
         "description": "Font size for Title/Title-2"
       },
       "lineHeight": {
-        "value": 48,
-        "type": "number",
+        "value": "3rem",
+        "type": "dimension",
         "description": "Line height for Title/Title-2"
       },
       "letterSpacing": {
-        "value": -0.64,
-        "type": "number",
+        "value": "-0.04rem",
+        "type": "dimension",
         "description": "Letter spacing for Title/Title-2"
       }
     },
@@ -58,18 +58,18 @@
         "description": "Font family for Title/Title-3"
       },
       "fontSize": {
-        "value": 32,
-        "type": "number",
+        "value": "2rem",
+        "type": "dimension",
         "description": "Font size for Title/Title-3"
       },
       "lineHeight": {
-        "value": 36,
-        "type": "number",
+        "value": "2.25rem",
+        "type": "dimension",
         "description": "Line height for Title/Title-3"
       },
       "letterSpacing": {
-        "value": -0.6,
-        "type": "number",
+        "value": "-0.038rem",
+        "type": "dimension",
         "description": "Letter spacing for Title/Title-3"
       }
     }
@@ -82,18 +82,18 @@
         "description": "Font family for Heading/H1"
       },
       "fontSize": {
-        "value": 28,
-        "type": "number",
+        "value": "1.75rem",
+        "type": "dimension",
         "description": "Font size for Heading/H1"
       },
       "lineHeight": {
-        "value": 32,
-        "type": "number",
+        "value": "2rem",
+        "type": "dimension",
         "description": "Line height for Heading/H1"
       },
       "letterSpacing": {
-        "value": -0.56,
-        "type": "number",
+        "value": "-0.035rem",
+        "type": "dimension",
         "description": "Letter spacing for Heading/H1"
       }
     },
@@ -104,18 +104,18 @@
         "description": "Font family for Heading/H2"
       },
       "fontSize": {
-        "value": 26,
-        "type": "number",
+        "value": "1.625rem",
+        "type": "dimension",
         "description": "Font size for Heading/H2"
       },
       "lineHeight": {
-        "value": 30,
-        "type": "number",
+        "value": "1.875rem",
+        "type": "dimension",
         "description": "Line height for Heading/H2"
       },
       "letterSpacing": {
-        "value": -0.26,
-        "type": "number",
+        "value": "-0.016rem",
+        "type": "dimension",
         "description": "Letter spacing for Heading/H2"
       }
     },
@@ -126,18 +126,18 @@
         "description": "Font family for Heading/H3"
       },
       "fontSize": {
-        "value": 24,
-        "type": "number",
+        "value": "1.5rem",
+        "type": "dimension",
         "description": "Font size for Heading/H3"
       },
       "lineHeight": {
-        "value": 28,
-        "type": "number",
+        "value": "1.75rem",
+        "type": "dimension",
         "description": "Line height for Heading/H3"
       },
       "letterSpacing": {
-        "value": -0.24,
-        "type": "number",
+        "value": "-0.015rem",
+        "type": "dimension",
         "description": "Letter spacing for Heading/H3"
       }
     },
@@ -148,18 +148,18 @@
         "description": "Font family for Heading/H4"
       },
       "fontSize": {
-        "value": 20,
-        "type": "number",
+        "value": "1.25rem",
+        "type": "dimension",
         "description": "Font size for Heading/H4"
       },
       "lineHeight": {
-        "value": 24,
-        "type": "number",
+        "value": "1.5rem",
+        "type": "dimension",
         "description": "Line height for Heading/H4"
       },
       "letterSpacing": {
-        "value": -0.2,
-        "type": "number",
+        "value": "-0.013rem",
+        "type": "dimension",
         "description": "Letter spacing for Heading/H4"
       }
     }
@@ -172,18 +172,18 @@
         "description": "Font family for Label/Label-1"
       },
       "fontSize": {
-        "value": 17,
-        "type": "number",
+        "value": "1.063rem",
+        "type": "dimension",
         "description": "Font size for Label/Label-1"
       },
       "lineHeight": {
-        "value": 20,
-        "type": "number",
+        "value": "1.25rem",
+        "type": "dimension",
         "description": "Line height for Label/Label-1"
       },
       "letterSpacing": {
-        "value": -0.18,
-        "type": "number",
+        "value": "-0.011rem",
+        "type": "dimension",
         "description": "Letter spacing for Label/Label-1"
       }
     },
@@ -194,18 +194,18 @@
         "description": "Font family for Label/Label-2"
       },
       "fontSize": {
-        "value": 15,
-        "type": "number",
+        "value": "0.938rem",
+        "type": "dimension",
         "description": "Font size for Label/Label-2"
       },
       "lineHeight": {
-        "value": 18,
-        "type": "number",
+        "value": "1.125rem",
+        "type": "dimension",
         "description": "Line height for Label/Label-2"
       },
       "letterSpacing": {
-        "value": -0.16,
-        "type": "number",
+        "value": "-0.01rem",
+        "type": "dimension",
         "description": "Letter spacing for Label/Label-2"
       }
     },
@@ -216,18 +216,18 @@
         "description": "Font family for Label/Label-3"
       },
       "fontSize": {
-        "value": 13,
-        "type": "number",
+        "value": "0.813rem",
+        "type": "dimension",
         "description": "Font size for Label/Label-3"
       },
       "lineHeight": {
-        "value": 16,
-        "type": "number",
+        "value": "1rem",
+        "type": "dimension",
         "description": "Line height for Label/Label-3"
       },
       "letterSpacing": {
-        "value": -0.14,
-        "type": "number",
+        "value": "-0.009rem",
+        "type": "dimension",
         "description": "Letter spacing for Label/Label-3"
       }
     },
@@ -238,18 +238,18 @@
         "description": "Font family for Label/Label-4"
       },
       "fontSize": {
-        "value": 12,
-        "type": "number",
+        "value": "0.75rem",
+        "type": "dimension",
         "description": "Font size for Label/Label-4"
       },
       "lineHeight": {
-        "value": 14,
-        "type": "number",
+        "value": "0.875rem",
+        "type": "dimension",
         "description": "Line height for Label/Label-4"
       },
       "letterSpacing": {
-        "value": -0.12,
-        "type": "number",
+        "value": "-0.007rem",
+        "type": "dimension",
         "description": "Letter spacing for Label/Label-4"
       }
     },
@@ -260,18 +260,18 @@
         "description": "Font family for Label/Label-5"
       },
       "fontSize": {
-        "value": 11,
-        "type": "number",
+        "value": "0.688rem",
+        "type": "dimension",
         "description": "Font size for Label/Label-5"
       },
       "lineHeight": {
-        "value": 14,
-        "type": "number",
+        "value": "0.875rem",
+        "type": "dimension",
         "description": "Line height for Label/Label-5"
       },
       "letterSpacing": {
-        "value": -0.1,
-        "type": "number",
+        "value": "-0.006rem",
+        "type": "dimension",
         "description": "Letter spacing for Label/Label-5"
       }
     }
@@ -284,18 +284,18 @@
         "description": "Font family for Body/Body-1"
       },
       "fontSize": {
-        "value": 16,
-        "type": "number",
+        "value": "1rem",
+        "type": "dimension",
         "description": "Font size for Body/Body-1"
       },
       "lineHeight": {
-        "value": 22,
-        "type": "number",
+        "value": "1.375rem",
+        "type": "dimension",
         "description": "Line height for Body/Body-1"
       },
       "letterSpacing": {
-        "value": 0,
-        "type": "number",
+        "value": "0rem",
+        "type": "dimension",
         "description": "Letter spacing for Body/Body-1"
       }
     },
@@ -306,18 +306,18 @@
         "description": "Font family for Body/Body-2"
       },
       "fontSize": {
-        "value": 14,
-        "type": "number",
+        "value": "0.875rem",
+        "type": "dimension",
         "description": "Font size for Body/Body-2"
       },
       "lineHeight": {
-        "value": 20,
-        "type": "number",
+        "value": "1.25rem",
+        "type": "dimension",
         "description": "Line height for Body/Body-2"
       },
       "letterSpacing": {
-        "value": 0,
-        "type": "number",
+        "value": "0rem",
+        "type": "dimension",
         "description": "Letter spacing for Body/Body-2"
       }
     },
@@ -328,18 +328,18 @@
         "description": "Font family for Body/Body-3"
       },
       "fontSize": {
-        "value": 12,
-        "type": "number",
+        "value": "0.75rem",
+        "type": "dimension",
         "description": "Font size for Body/Body-3"
       },
       "lineHeight": {
-        "value": 16,
-        "type": "number",
+        "value": "1rem",
+        "type": "dimension",
         "description": "Line height for Body/Body-3"
       },
       "letterSpacing": {
-        "value": 0,
-        "type": "number",
+        "value": "0rem",
+        "type": "dimension",
         "description": "Letter spacing for Body/Body-3"
       }
     }
@@ -351,18 +351,18 @@
       "description": "Font family for Tiny"
     },
     "fontSize": {
-      "value": 10,
-      "type": "number",
+      "value": "0.625rem",
+      "type": "dimension",
       "description": "Font size for Tiny"
     },
     "lineHeight": {
-      "value": 12,
-      "type": "number",
+      "value": "0.75rem",
+      "type": "dimension",
       "description": "Line height for Tiny"
     },
     "letterSpacing": {
-      "value": 0,
-      "type": "number",
+      "value": "0rem",
+      "type": "dimension",
       "description": "Letter spacing for Tiny"
     }
   },
@@ -373,18 +373,18 @@
       "description": "Font family for Tiny Extended"
     },
     "fontSize": {
-      "value": 10,
-      "type": "number",
+      "value": "0.625rem",
+      "type": "dimension",
       "description": "Font size for Tiny Extended"
     },
     "lineHeight": {
-      "value": 12,
-      "type": "number",
+      "value": "0.75rem",
+      "type": "dimension",
       "description": "Line height for Tiny Extended"
     },
     "letterSpacing": {
-      "value": 1,
-      "type": "number",
+      "value": "0.063rem",
+      "type": "dimension",
       "description": "Letter spacing for Tiny Extended"
     }
   },
@@ -395,18 +395,18 @@
       "description": "Font family for Micro"
     },
     "fontSize": {
-      "value": 9,
-      "type": "number",
+      "value": "0.563rem",
+      "type": "dimension",
       "description": "Font size for Micro"
     },
     "lineHeight": {
-      "value": 10,
-      "type": "number",
+      "value": "0.625rem",
+      "type": "dimension",
       "description": "Line height for Micro"
     },
     "letterSpacing": {
-      "value": 0,
-      "type": "number",
+      "value": "0rem",
+      "type": "dimension",
       "description": "Letter spacing for Micro"
     }
   },
@@ -448,48 +448,48 @@
   },
   "Weights": {
     "Thin": {
-      "value": 100,
-      "type": "number",
+      "value": "6.25rem",
+      "type": "dimension",
       "description": "Font weight for Thin"
     },
     "ExtraLight": {
-      "value": 200,
-      "type": "number",
+      "value": "12.5rem",
+      "type": "dimension",
       "description": "Font weight for ExtraLight"
     },
     "Light": {
-      "value": 300,
-      "type": "number",
+      "value": "18.75rem",
+      "type": "dimension",
       "description": "Font weight for Light"
     },
     "Regular": {
-      "value": 400,
-      "type": "number",
+      "value": "25rem",
+      "type": "dimension",
       "description": "Font weight for Regular"
     },
     "Medium": {
-      "value": 500,
-      "type": "number",
+      "value": "31.25rem",
+      "type": "dimension",
       "description": "Font weight for Medium"
     },
     "SemiBold": {
-      "value": 600,
-      "type": "number",
+      "value": "37.5rem",
+      "type": "dimension",
       "description": "Font weight for SemiBold"
     },
     "Bold": {
-      "value": 700,
-      "type": "number",
+      "value": "43.75rem",
+      "type": "dimension",
       "description": "Font weight for Bold"
     },
     "ExtraBold": {
-      "value": 800,
-      "type": "number",
+      "value": "50rem",
+      "type": "dimension",
       "description": "Font weight for ExtraBold"
     },
     "Black": {
-      "value": 900,
-      "type": "number",
+      "value": "56.25rem",
+      "type": "dimension",
       "description": "Font weight for Black"
     }
   }
