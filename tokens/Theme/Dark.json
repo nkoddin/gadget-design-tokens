@@ -71,12 +71,12 @@
       "description": "bg color for accent-primary-hover (aliased to purple/100)"
     },
     "accent-solid": {
-      "value": "{950}",
+      "value": "{200}",
       "type": "color",
       "description": "bg color for accent-solid (aliased to purple/500)"
     },
     "accent-solid-hover": {
-      "value": "{900}",
+      "value": "{100}",
       "type": "color",
       "description": "bg color for accent-solid-hover (aliased to purple/600)"
     },
@@ -213,6 +213,10 @@
     "Color": {
       "value": "#ffffff",
       "type": "color"
+    },
+    "success-alpha": {
+      "value": "#42c57333",
+      "type": "color"
     }
   },
   "text": {
@@ -267,22 +271,22 @@
       "description": "text color for on-dark-color (aliased to b&w/white)"
     },
     "accent-primary": {
-      "value": "{purple.400}",
+      "value": "{200}",
       "type": "color",
       "description": "text color for accent-primary (aliased to purple/500)"
     },
     "accent-secondary": {
-      "value": "{purple.600}",
+      "value": "{300}",
       "type": "color",
       "description": "text color for accent-secondary (aliased to purple/300)"
     },
     "accent-primary-hover": {
-      "value": "{purple.300}",
+      "value": "{100}",
       "type": "color",
       "description": "text color for accent-primary-hover (aliased to purple/600)"
     },
     "accent-secondary-hover": {
-      "value": "{purple.400}",
+      "value": "{200}",
       "type": "color",
       "description": "text color for accent-secondary-hover (aliased to purple/400)"
     },
@@ -387,7 +391,7 @@
       "description": "text color for offer-secondary-hover (aliased to green/600)"
     },
     "on-primary": {
-      "value": "{bw.white}",
+      "value": "{slate.950}",
       "type": "color"
     }
   },
@@ -567,7 +571,7 @@
       "type": "color"
     },
     "on-primary": {
-      "value": "{bw.white}",
+      "value": "{slate.950}",
       "type": "color"
     }
   },
