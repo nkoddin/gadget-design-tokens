@@ -1412,5 +1412,9 @@
       "type": "color",
       "description": "Generated from Tailwind Color System"
     }
+  },
+  "аааа": {
+    "value": "#",
+    "type": "color"
   }
 }
